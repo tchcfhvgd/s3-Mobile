@@ -32,6 +32,13 @@ import psych.backend.CoolUtil;
 import psych.backend.Mods;
 import psych.backend.Paths;
 
+#if sys
+import sys.*;
+import sys.io.*;
+#elseif js
+import js.html.*;
+#end
+
 // Android
 #if android
 import android.content.Context as AndroidContext;
