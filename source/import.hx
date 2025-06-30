@@ -28,6 +28,9 @@ import mobile.backend.MobileData;
 import mobile.input.MobileInputManager;
 import mobile.backend.TouchUtil;
 import mobile.backend.StorageUtil;
+import psych.backend.CoolUtil;
+import psych.backend.Mods;
+import psych.backend.Paths;
 
 // Android
 #if android
