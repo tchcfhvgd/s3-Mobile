@@ -1,0 +1,117 @@
+{
+	"soundPath": "act0",
+	"dialogue": [
+		{
+			"sound": "act0/1",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "whine",
+			"text": "Sonic, I thought we moved past all of the portal shenanigans!"
+		},
+		{
+			"sound": "act0/2",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "whine",
+			"text": "This is totally ruining our date."
+		},
+		{
+			"sound": "act0/3",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Ehh, I was getting a little bored anyways."
+		},
+		{
+			"sound": "act0/4",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Can't take full credit, though...this wasn't my idea!"
+		},
+		{
+			"sound": "act0/5",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "dopey",
+			"text": "Hmm... We're definitely back on South Island... but something ain't right."
+		},
+		{
+			"sound": "act0/6",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "pout",
+			"text": "Baah whatever!"
+		},
+		{
+			"sound": "act0/7",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I'm the kinda girl who makes the best of her circumstances."
+		},
+		{
+			"sound": "act0/8",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "argue",
+			"text": "Sonic, I declare that you serenade me this instant!"
+		},
+		{
+			"sound": "act0/9",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I don't really sing like that--"
+		},
+		{
+			"sound": "act0/10",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "argue",
+			"text": "Don't EVEN!"
+		},
+		{
+			"sound": "act0/11",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "argue",
+			"text": "You promised me you'd do whatever I said and you swore on your love for chili dogs..."
+		},
+		{
+			"sound": "act0/12",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "mybad",
+			"text": "Oh right...heh,"
+		},
+		{
+			"sound": "act0/13",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "mybad",
+			"text": "mah bad!"
+		},
+		{
+			"sound": "act0/14",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "proud",
+			"text": "Well, why don't you lead me, fairest Ames?"
+		}
+	]
+}

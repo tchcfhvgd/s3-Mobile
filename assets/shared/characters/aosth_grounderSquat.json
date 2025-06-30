@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GROUNDER SQUAT IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				54
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GROUNDER SQUAT LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				66
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GROUNDER SQUAT DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				62
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GROUNDER SQUAT UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GROUNDER SQUAT RIGHT",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/grounderSquat",
+	"position": [
+		-790,
+		780
+	],
+	"healthicon": "sonic-metal",
+	"flip_x": false,
+	"healthbar_colors": [
+		74,
+		42,
+		241
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

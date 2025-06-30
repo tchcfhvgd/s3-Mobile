@@ -1,0 +1,61 @@
+{
+	"soundPath": "stardust",
+	"dialogue": [
+		{
+			"sound": "stardust/line 1 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "proud",
+			"text": "Gotta hand it to ya Eggman, this is your best work by far!"
+		},
+		{
+			"sound": "stardust/line 2 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Even so, it's only an imitation."
+		},
+		{
+			"sound": "stardust/line 3 metal sonic",
+			"speed": 0.05,
+			"portrait": "metal",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "BZZZZZT~"
+		},
+		{
+			"sound": "stardust/line 4 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "dopey",
+			"text": "Whats that?"
+		},
+		{
+			"sound": "stardust/line 5 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "determined",
+			"text": "'This world isn't big enough for both of us, and one of us has to go?'"
+		},
+		{
+			"sound": "stardust/line 6 metal sonic",
+			"speed": 0.05,
+			"portrait": "metal",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "BEEP!!"
+		},
+		{
+			"sound": "stardust/line 7 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "argue",
+			"text": "Well. I AGREE."
+		}
+	]
+}

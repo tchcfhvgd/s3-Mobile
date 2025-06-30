@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="maniaBackground.png" width="4365" height="999">
+	<SubTexture name="maniaBackground0000" x="1" y="1" width="1451" height="997" frameX="-0" frameY="-0" frameWidth="1451" frameHeight="997"/>
+	<SubTexture name="maniaBackground0001" x="1" y="1" width="1451" height="997" frameX="-0" frameY="-0" frameWidth="1451" frameHeight="997"/>
+	<SubTexture name="maniaBackground0002" x="1" y="1" width="1451" height="997" frameX="-0" frameY="-0" frameWidth="1451" frameHeight="997"/>
+	<SubTexture name="maniaBackground0003" x="1" y="1" width="1451" height="997" frameX="-0" frameY="-0" frameWidth="1451" frameHeight="997"/>
+	<SubTexture name="maniaBackground0004" x="1457" y="1" width="1451" height="997" frameX="-0" frameY="-0" frameWidth="1451" frameHeight="997"/>
+	<SubTexture name="maniaBackground0005" x="1457" y="1" width="1451" height="997" frameX="-0" frameY="-0" frameWidth="1451" frameHeight="997"/>
+	<SubTexture name="maniaBackground0006" x="2913" y="1" width="1451" height="997" frameX="-0" frameY="-0" frameWidth="1451" frameHeight="997"/>
+	<SubTexture name="maniaBackground0007" x="2913" y="1" width="1451" height="997" frameX="-0" frameY="-0" frameWidth="1451" frameHeight="997"/>
+</TextureAtlas>

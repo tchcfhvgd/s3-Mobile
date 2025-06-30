@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		100,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "argue",
+			"loop_offsets": [
+				47,
+				-50
+			],
+			"idle_offsets": [
+				47,
+				-50
+			],
+			"loop_name": "sonicArgue",
+			"idle_name": "sonicArgue"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-1,
+				0
+			],
+			"loop_name": "sonicConfused",
+			"idle_name": "sonicConfused"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "determined",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "sonicDetermined",
+			"idle_name": "sonicDetermined"
+		},
+		{
+			"loop_offsets": [
+				-60,
+				21
+			],
+			"anim": "dopey",
+			"idle_offsets": [
+				-60,
+				21
+			],
+			"loop_name": "sonicDopey",
+			"idle_name": "sonicDopey"
+		},
+		{
+			"idle_offsets": [
+				8,
+				0
+			],
+			"anim": "mybad",
+			"loop_offsets": [
+				8,
+				0
+			],
+			"idle_name": "sonicMyBad",
+			"loop_name": "sonicMyBad"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "sonicNeutral",
+			"loop_name": "sonicNeutral"
+		},
+		{
+			"idle_offsets": [
+				4,
+				13
+			],
+			"anim": "proud",
+			"loop_offsets": [
+				4,
+				13
+			],
+			"idle_name": "sonicProud",
+			"loop_name": "sonicProud"
+		}
+	],
+	"image": "sonic"
+}

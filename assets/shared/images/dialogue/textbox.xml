@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="textbox.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="textbox0000" x="0" y="0" width="178" height="6" frameX="-486" frameY="-127" frameWidth="1150" frameHeight="376"/>
+	<SubTexture name="textbox0001" x="198" y="0" width="432" height="79" frameX="-359" frameY="-91" frameWidth="1150" frameHeight="376"/>
+	<SubTexture name="textbox0002" x="650" y="0" width="901" height="195" frameX="-124" frameY="-27" frameWidth="1150" frameHeight="376"/>
+	<SubTexture name="textbox0003" x="0" y="215" width="1150" height="376"/>
+	<SubTexture name="textbox0004" x="0" y="215" width="1150" height="376"/>
+	<SubTexture name="textbox0005" x="0" y="611" width="1114" height="368" frameX="-18" frameY="-2" frameWidth="1150" frameHeight="376"/>
+	<SubTexture name="textbox0006" x="0" y="611" width="1114" height="368" frameX="-18" frameY="-2" frameWidth="1150" frameHeight="376"/>
+</TextureAtlas>

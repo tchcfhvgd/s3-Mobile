@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="funkinhill-waterfall.png" width="5135" height="717">
+	<SubTexture name="FUNKINHILL0000" x="0" y="0" width="1280" height="717" frameX="-0" frameY="-3" frameWidth="1282" frameHeight="722"/>
+	<SubTexture name="FUNKINHILL0001" x="1285" y="0" width="1280" height="717" frameX="-0" frameY="-3" frameWidth="1282" frameHeight="722"/>
+	<SubTexture name="FUNKINHILL0002" x="2570" y="0" width="1280" height="717" frameX="-0" frameY="-3" frameWidth="1282" frameHeight="722"/>
+	<SubTexture name="FUNKINHILL0003" x="3855" y="0" width="1280" height="717" frameX="-0" frameY="-3" frameWidth="1282" frameHeight="722"/>
+	<SubTexture name="FUNKINHILL0004" x="1285" y="0" width="1280" height="717" frameX="-0" frameY="-3" frameWidth="1282" frameHeight="722"/>
+	<SubTexture name="FUNKINHILL0005" x="0" y="0" width="1280" height="717" frameX="-0" frameY="-3" frameWidth="1282" frameHeight="722"/>
+	<SubTexture name="FUNKINHILL0006" x="3855" y="0" width="1280" height="717" frameX="-0" frameY="-3" frameWidth="1282" frameHeight="722"/>
+	<SubTexture name="FUNKINHILL0007" x="2570" y="0" width="1280" height="717" frameX="-0" frameY="-3" frameWidth="1282" frameHeight="722"/>
+</TextureAtlas>

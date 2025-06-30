@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="MOTOBUG.png" width="4143" height="274">
+	<SubTexture name="MOTOBUG0000" x="2341" y="1" width="335" height="261" frameX="-0" frameY="-4" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="MOTOBUG0001" x="2341" y="1" width="335" height="261" frameX="-0" frameY="-4" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="MOTOBUG0002" x="1673" y="1" width="330" height="258" frameX="-5" frameY="-7" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="MOTOBUG0003" x="1673" y="1" width="330" height="258" frameX="-5" frameY="-7" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="MOTOBUG0004" x="2008" y="1" width="328" height="258" frameX="-6" frameY="-7" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="MOTOBUG0005" x="2008" y="1" width="328" height="258" frameX="-6" frameY="-7" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="MOTOBUG0006" x="2681" y="1" width="327" height="264" frameX="-6" frameY="-1" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="MOTOBUG0007" x="2681" y="1" width="327" height="264" frameX="-6" frameY="-1" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="MOTOBUG0008" x="2681" y="1" width="327" height="264" frameX="-6" frameY="-1" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="MOTOBUG0009" x="3013" y="1" width="323" height="264" frameX="-10" frameY="-1" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="MOTOBUG0010" x="3013" y="1" width="323" height="264" frameX="-10" frameY="-1" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="MOTOBUG0011" x="3341" y="1" width="320" height="265" frameX="-14" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="MOTOBUG0012" x="3341" y="1" width="320" height="265" frameX="-14" frameY="-0" frameWidth="335" frameHeight="265"/>
+	<SubTexture name="explosion0000" x="416" y="1" width="401" height="224" frameX="-29" frameY="-153" frameWidth="476" frameHeight="377"/>
+	<SubTexture name="explosion0001" x="416" y="1" width="401" height="224" frameX="-29" frameY="-153" frameWidth="476" frameHeight="377"/>
+	<SubTexture name="explosion0002" x="3666" y="1" width="476" height="272" frameX="-0" frameY="-29" frameWidth="476" frameHeight="377"/>
+	<SubTexture name="explosion0003" x="3666" y="1" width="476" height="272" frameX="-0" frameY="-29" frameWidth="476" frameHeight="377"/>
+	<SubTexture name="explosion0004" x="822" y="1" width="433" height="235" frameX="-16" frameY="-48" frameWidth="476" frameHeight="377"/>
+	<SubTexture name="explosion0005" x="822" y="1" width="433" height="235" frameX="-16" frameY="-48" frameWidth="476" frameHeight="377"/>
+	<SubTexture name="explosion0006" x="1260" y="1" width="408" height="240" frameX="-41" frameY="-0" frameWidth="476" frameHeight="377"/>
+	<SubTexture name="explosion0007" x="1260" y="1" width="408" height="240" frameX="-41" frameY="-0" frameWidth="476" frameHeight="377"/>
+	<SubTexture name="explosion0008" x="1" y="1" width="410" height="155" frameX="-35" frameY="-77" frameWidth="476" frameHeight="377"/>
+	<SubTexture name="explosion0009" x="1" y="1" width="410" height="155" frameX="-35" frameY="-77" frameWidth="476" frameHeight="377"/>
+</TextureAtlas>

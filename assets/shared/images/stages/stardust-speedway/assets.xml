@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="assets.png" width="1737" height="1859">
+	<SubTexture name="arrow_pipe0000" x="1451" y="762" width="214" height="162" frameX="-0" frameY="-0" frameWidth="214" frameHeight="162"/>
+	<SubTexture name="back_platform0000" x="1255" y="621" width="117" height="836" rotated="true" frameX="-0" frameY="-0" frameWidth="836" frameHeight="117"/>
+	<SubTexture name="buildings0000" x="1" y="621" width="1249" height="515" frameX="-0" frameY="-0" frameWidth="1249" frameHeight="515"/>
+	<SubTexture name="eggman_statue0000" x="1377" y="621" width="287" height="136" frameX="-0" frameY="-0" frameWidth="287" frameHeight="136"/>
+	<SubTexture name="front_platform0000" x="1" y="1141" width="1103" height="717" frameX="-0" frameY="-0" frameWidth="1103" frameHeight="717"/>
+	<SubTexture name="horn0000" x="1109" y="1594" width="337" height="258" frameX="-0" frameY="-0" frameWidth="337" frameHeight="258"/>
+	<SubTexture name="piston0000" x="1222" y="1462" width="183" height="95" rotated="true" frameX="-0" frameY="-0" frameWidth="95" frameHeight="183"/>
+	<SubTexture name="ring_set0000" x="1109" y="1141" width="108" height="448" rotated="true" frameX="-0" frameY="-0" frameWidth="448" frameHeight="108"/>
+	<SubTexture name="stardustFloor0000" x="1" y="1" width="1735" height="615" frameX="-0" frameY="-0" frameWidth="1735" frameHeight="615"/>
+</TextureAtlas>

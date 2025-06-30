@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"idle_name": "eggmanNeutral",
+			"loop_name": "eggmanNeutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "eggman angry",
+			"loop_name": "eggman angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "eggmanBoohoo",
+			"loop_name": "eggmanBoohoo",
+			"idle_offsets": [
+				-64,
+				0
+			],
+			"anim": "boohoo",
+			"loop_offsets": [
+				-64,
+				0
+			]
+		},
+		{
+			"idle_name": "eggmanGrimace",
+			"loop_name": "eggmanGrimace",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "grimace",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"idle_name": "eggmanPlot",
+			"loop_name": "eggmanPlot",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"anim": "plot",
+			"loop_offsets": [
+				0,
+				-10
+			]
+		},
+		{
+			"idle_name": "eggmanPoint",
+			"loop_name": "eggmanPoint",
+			"idle_offsets": [
+				0,
+				80
+			],
+			"anim": "point",
+			"loop_offsets": [
+				0,
+				80
+			]
+		},
+		{
+			"idle_name": "eggmanPout",
+			"loop_name": "eggmanPout",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pout",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"position": [
+		-75,
+		55
+	],
+	"image": "eggman",
+	"scale": 1.25,
+	"dialogue_pos": "left"
+}

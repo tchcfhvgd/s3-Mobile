@@ -1,0 +1,116 @@
+{
+	"position": [
+		30,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"flipX": true,
+	"image": "amy",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "neutral",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "amyNeutral",
+			"idle_name": "amyNeutral"
+		},
+		{
+			"loop_offsets": [
+				29,
+				-39
+			],
+			"anim": "argue",
+			"idle_offsets": [
+				29,
+				-39
+			],
+			"loop_name": "amyArgue",
+			"idle_name": "amyArgue"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "amyConfused",
+			"idle_name": "amyConfused"
+		},
+		{
+			"loop_offsets": [
+				40,
+				60
+			],
+			"anim": "eek",
+			"idle_offsets": [
+				40,
+				60
+			],
+			"loop_name": "amyEEK",
+			"idle_name": "amyEEK"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "amyHappy",
+			"idle_name": "amyHappy"
+		},
+		{
+			"loop_offsets": [
+				44,
+				6
+			],
+			"anim": "pout",
+			"idle_offsets": [
+				44,
+				6
+			],
+			"loop_name": "amyPout",
+			"idle_name": "amyPout"
+		},
+		{
+			"loop_offsets": [
+				44,
+				13
+			],
+			"anim": "sideEye",
+			"idle_offsets": [
+				44,
+				13
+			],
+			"loop_name": "amySideEye",
+			"idle_name": "amySideEye"
+		},
+		{
+			"loop_offsets": [
+				44,
+				6
+			],
+			"anim": "whine",
+			"idle_offsets": [
+				44,
+				6
+			],
+			"loop_name": "amyWhine",
+			"idle_name": "amyWhine"
+		}
+	]
+}

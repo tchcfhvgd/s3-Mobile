@@ -1,0 +1,101 @@
+{
+	"soundPath": "scrambled",
+	"dialogue": [
+		{
+			"sound": "scrambled/line 1 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "determined",
+			"text": "Alright, these settings are getting too specific."
+		},
+		{
+			"sound": "scrambled/line 2 sonic and eggman",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "argue",
+			"text": "I can only think of one person who could possibly be behind this... I KNEW IT!"
+		},
+		{
+			"sound": "scrambled/line 3 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "Proud",
+			"text": "Egghead! Long time no see eh?"
+		},
+		{
+			"sound": "scrambled/line 4 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Well, you know I just couldn't stay away for too long my spiky friend."
+		},
+		{
+			"sound": "scrambled/line 5 amy",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "argue",
+			"text": "Eggman, whats with you?!"
+		},
+		{
+			"sound": "scrambled/line 6 amy",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "pout",
+			"text": "Now, I know you're no stranger to inconveniencing innocent people, but this is our day for crying out loud!"
+		},
+		{
+			"sound": "scrambled/line 7 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "boohoo",
+			"text": "Oh boo-hoo! Poor Amy Rose!"
+		},
+		{
+			"sound": "scrambled/line 8 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "FEAR NOT!"
+		},
+		{
+			"sound": "scrambled/line 9 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "I hypothesized that this would happen, and therefore. I've concocted a solution!!"
+		},	
+		{
+			"sound": "scrambled/line 10 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "If your dear Sonic can best me in a battle of the vocal chords, then I might let you two love birds continue your date!"
+		},	
+		{
+			"sound": "scrambled/line 11 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Sounds easy enough!"
+		},	
+		{
+			"sound": "scrambled/line 12 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "proud",
+			"text": "LETS DO IT!"
+		}
+	]
+}

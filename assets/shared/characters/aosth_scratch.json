@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SCRATCH IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				-405
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SCRATCH DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SCRATCH LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				166
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SCRATCH UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				218,
+				-146
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SCRATCH RIGHT",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/scratch",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "SG",
+	"flip_x": false,
+	"healthbar_colors": [
+		91,
+		109,
+		143
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

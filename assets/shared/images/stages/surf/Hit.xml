@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="Hit.png" width="2994" height="3163">
+	<SubTexture name="HIT!0000" x="1" y="1" width="2992" height="193" frameX="-0" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0001" x="1" y="595" width="2774" height="193" frameX="-110" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0002" x="1" y="991" width="2555" height="193" frameX="-221" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0003" x="1" y="1387" width="2338" height="193" frameX="-331" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0004" x="1" y="1783" width="2119" height="193" frameX="-442" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0005" x="2791" y="397" width="193" height="1900" rotated="true" frameX="-553" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0006" x="2589" y="793" width="193" height="1682" rotated="true" frameX="-664" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0007" x="2387" y="1189" width="193" height="1462" rotated="true" frameX="-775" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0008" x="2184" y="1585" width="193" height="1244" rotated="true" frameX="-886" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0009" x="1981" y="1981" width="193" height="1025" rotated="true" frameX="-997" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0010" x="2787" y="2302" width="193" height="806" rotated="true" frameX="-1108" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0011" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0012" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0013" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0014" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0015" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0016" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0017" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0018" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0019" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0020" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0021" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0022" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0023" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0024" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0025" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0026" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0027" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0028" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0029" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0030" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0031" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0032" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0033" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0034" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0035" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0036" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0037" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0038" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0039" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0040" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0041" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0042" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0043" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0044" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0045" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0046" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0047" x="1375" y="2575" width="193" height="587" rotated="true" frameX="-1219" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0048" x="1577" y="2377" width="193" height="762" rotated="true" frameX="-1130" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0049" x="1779" y="2179" width="193" height="963" rotated="true" frameX="-1028" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0050" x="1" y="2773" width="1167" height="193" frameX="-925" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0051" x="1" y="2575" width="1369" height="193" frameX="-822" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0052" x="1" y="2377" width="1571" height="193" frameX="-720" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0053" x="1" y="2179" width="1773" height="193" frameX="-617" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0054" x="1" y="1981" width="1975" height="193" frameX="-515" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0055" x="1" y="1585" width="2178" height="193" frameX="-412" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0056" x="1" y="1189" width="2381" height="193" frameX="-309" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0057" x="1" y="793" width="2583" height="193" frameX="-207" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0058" x="1" y="397" width="2785" height="193" frameX="-104" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0059" x="1" y="199" width="2988" height="193" frameX="-1" frameY="-0" frameWidth="2992" frameHeight="193"/>
+	<SubTexture name="HIT!0060" x="1" y="199" width="2988" height="193" frameX="-1" frameY="-0" frameWidth="2992" frameHeight="193"/>
+</TextureAtlas>

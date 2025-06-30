@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonic.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonicArgue0000" x="0" y="0" width="475" height="399"/>
+	<SubTexture name="sonicConfused0000" x="495" y="0" width="447" height="426"/>
+	<SubTexture name="sonicDetermined0000" x="962" y="0" width="481" height="501"/>
+	<SubTexture name="sonicDopey0000" x="1463" y="0" width="381" height="489"/>
+	<SubTexture name="sonicMyBad0000" x="0" y="521" width="435" height="446"/>
+	<SubTexture name="sonicNeutral0000" x="455" y="521" width="448" height="425"/>
+	<SubTexture name="sonicProud0000" x="923" y="521" width="475" height="433"/>
+</TextureAtlas>

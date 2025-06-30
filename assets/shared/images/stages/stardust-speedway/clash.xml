@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="clash.png" width="3753" height="1157">
+	<SubTexture name="stardustBg0000" x="1" y="1" width="2046" height="864" frameX="-0" frameY="-0" frameWidth="2046" frameHeight="864"/>
+	<SubTexture name="stardustFg0000" x="1" y="870" width="1398" height="286" frameX="-0" frameY="-0" frameWidth="1401" frameHeight="289"/>
+	<SubTexture name="stardustOverlay0000" x="2052" y="1" width="1700" height="1100" frameX="-0" frameY="-0" frameWidth="1700" frameHeight="1100"/>
+</TextureAtlas>

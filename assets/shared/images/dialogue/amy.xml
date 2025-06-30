@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amy.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amyArgue0000" x="0" y="0" width="477" height="375"/>
+	<SubTexture name="amyConfused0000" x="497" y="0" width="355" height="436"/>
+	<SubTexture name="amyEEK0000" x="872" y="0" width="411" height="509"/>
+	<SubTexture name="amyHappy0000" x="1303" y="0" width="357" height="435"/>
+	<SubTexture name="amyNeutral0000" x="1680" y="0" width="357" height="435"/>
+	<SubTexture name="amyPout0000" x="0" y="529" width="373" height="449"/>
+	<SubTexture name="amySideEye0000" x="393" y="529" width="373" height="457"/>
+	<SubTexture name="amyWhine0000" x="786" y="529" width="373" height="449"/>
+</TextureAtlas>

@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Act 0", "amy", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"amy-act0",
+		"",
+		"sonic-act0"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "area1",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+	"difficulties": "Normal,Hard",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"storyColour": "0xFFff8af6"
+}

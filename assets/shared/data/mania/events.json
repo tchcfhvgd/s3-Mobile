@@ -1,0 +1,1446 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Tween Zoom",
+						"1.4,8",
+						"cubeInOut"
+					]
+				]
+			],
+			[
+				6086.95652173913,
+				[
+					[
+						"Force Focus",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				6304.34782608696,
+				[
+					[
+						"Play Animation",
+						"lets",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.35, 0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				6521.73913043478,
+				[
+					[
+						"Play Animation",
+						"go",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.2,1",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				8043.47826086957,
+				[
+					[
+						"Play Animation",
+						"lets",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				8260.86956521739,
+				[
+					[
+						"Play Animation",
+						"go",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.25,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				8586.95652173913,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.275,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				8913.04347826087,
+				[
+					[
+						"Tween Zoom",
+						"1.25,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				9347.82608695652,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.275,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				9782.60869565217,
+				[
+					[
+						"Play Animation",
+						"ngyah",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.25,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				10000,
+				[
+					[
+						"Tween Zoom",
+						"1.2,1",
+						"cubeOut"
+					],
+					[
+						"Force Focus",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13695.652173913,
+				[
+					[
+						"Play Animation",
+						"ngyah",
+						"dad"
+					],
+					[
+						"Force Focus",
+						"dad",
+						""
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				13913.0434782609,
+				[
+					[
+						"Tween Zoom",
+						"1.2,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Play Animation",
+						"lets",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				15217.3913043478,
+				[
+					[
+						"Play Animation",
+						"go",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.2,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				15543.4782608696,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				15869.5652173913,
+				[
+					[
+						"Tween Zoom",
+						"1.25,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				16304.347826087,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.275,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				16630.4347826087,
+				[
+					[
+						"Play Animation",
+						"mokey",
+						"dad"
+					]
+				]
+			],
+			[
+				16739.1304347826,
+				[
+					[
+						"Tween Zoom",
+						"1.25,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				16956.5217391304,
+				[
+					[
+						"Tween Zoom",
+						"1.2,0.6",
+						"cubeOut"
+					],
+					[
+						"Force Focus",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22608.6956521739,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				22608.6956521739,
+				[
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				22826.0869565217,
+				[
+					[
+						"Tween Zoom",
+						"1.25,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				23043.4782608696,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.2375,0.05",
+						""
+					]
+				]
+			],
+			[
+				23152.1739130435,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.05",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				23260.8695652174,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.2,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				23695.652173913,
+				[
+					[
+						"Play Animation",
+						"ngyah",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeIn"
+					]
+				]
+			],
+			[
+				23913.0434782609,
+				[
+					[
+						"Tween Zoom",
+						"1.2,0.5",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				26956.5217391304,
+				[
+					[
+						"Play Animation",
+						"lets",
+						"dad"
+					],
+					[
+						"Force Focus",
+						"dad",
+						""
+					],
+					[
+						"Tween Zoom",
+						"1.25,0.5",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				27391.3043478261,
+				[
+					[
+						"Play Animation",
+						"go",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.25,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				27608.6956521739,
+				[
+					[
+						"Play Animation",
+						"ngyah",
+						"dad"
+					]
+				]
+			],
+			[
+				27826.0869565217,
+				[
+					[
+						"Tween Zoom",
+						"1.2,0.5",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				28913.0434782609,
+				[
+					[
+						"Play Animation",
+						"lets",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				29130.4347826087,
+				[
+					[
+						"Play Animation",
+						"go",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.2,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				29456.5217391304,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				29565.2173913043,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				29782.6086956522,
+				[
+					[
+						"Tween Zoom",
+						"1.25,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				30217.3913043478,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				30543.4782608696,
+				[
+					[
+						"Play Animation",
+						"mokey",
+						"dad"
+					]
+				]
+			],
+			[
+				30652.1739130435,
+				[
+					[
+						"Tween Zoom",
+						"1.2375,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				30869.5652173913,
+				[
+					[
+						"Tween Zoom",
+						"1.2,1",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				31304.3478260869,
+				[
+					[
+						"Force Focus",
+						"",
+						""
+					]
+				]
+			],
+			[
+				37500,
+				[
+					[
+						"Play Animation",
+						"mokey",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				37826.0869565217,
+				[
+					[
+						"Tween Zoom",
+						"1.2,0.4",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				38260.8695652174,
+				[
+					[
+						"Tween Zoom",
+						"1.25,0.4",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Tween Zoom",
+						"1.2,0.6",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				41086.9565217391,
+				[
+					[
+						"Force Focus",
+						"dad",
+						""
+					],
+					[
+						"Tween Zoom",
+						"1.25,0.8",
+						"cubeInOut"
+					]
+				]
+			],
+			[
+				44565.2173913043,
+				[
+					[
+						"Play Animation",
+						"lets",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.2375,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				44782.6086956522,
+				[
+					[
+						"Play Animation",
+						"go",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.2,0.3",
+						"cubeOut"
+					],
+					[
+						"Force Focus",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45217.3913043478,
+				[
+					[
+						"Tween Zoom",
+						"1.25,1",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				47826.0869565217,
+				[
+					[
+						"Force Focus",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				48043.4782608696,
+				[
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				48260.8695652174,
+				[
+					[
+						"Tween Zoom",
+						"1.2,1",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				48695.652173913,
+				[
+					[
+						"Tween Zoom",
+						"1.3,8",
+						"cubeInOut"
+					]
+				]
+			],
+			[
+				50434.7826086956,
+				[
+					[
+						"Force Focus",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				53478.2608695652,
+				[
+					[
+						"Tween Zoom",
+						"1.3125,0.3",
+						"cubeIn"
+					]
+				]
+			],
+			[
+				53695.652173913,
+				[
+					[
+						"Tween Zoom",
+						"1.275,0.6",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				54782.6086956522,
+				[
+					[
+						"Force Focus",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				55000,
+				[
+					[
+						"Play Animation",
+						"ngyah",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.25,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				55217.3913043478,
+				[
+					[
+						"Tween Zoom",
+						"1.2,1",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				55652.1739130435,
+				[
+					[
+						"Force Focus",
+						"",
+						""
+					]
+				]
+			],
+			[
+				59565.2173913043,
+				[
+					[
+						"Tween Zoom",
+						"1.25,0.5",
+						"cubeIn"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Tween Zoom",
+						"1.2,0.4",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				60869.5652173913,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					],
+					[
+						"Force Focus",
+						"dad",
+						""
+					],
+					[
+						"Tween Zoom",
+						"1.25,0.6",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				61304.3478260869,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				61413.0434782609,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				61521.7391304348,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				61956.5217391304,
+				[
+					[
+						"Play Animation",
+						"lets",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				62173.9130434782,
+				[
+					[
+						"Play Animation",
+						"go",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.2,1",
+						"cubeOut"
+					],
+					[
+						"",
+						"bush1",
+						""
+					]
+				]
+			],
+			[
+				62608.6956521739,
+				[
+					[
+						"Force Focus",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				63695.652173913,
+				[
+					[
+						"Play Animation",
+						"lets",
+						"dad"
+					]
+				]
+			],
+			[
+				63913.0434782609,
+				[
+					[
+						"Play Animation",
+						"go",
+						"dad"
+					]
+				]
+			],
+			[
+				64239.1304347826,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				64347.8260869565,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				64347.8260869565,
+				[
+					[
+						"Force Focus",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				65000,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				65434.7826086956,
+				[
+					[
+						"Play Animation",
+						"ngyah",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				65652.1739130435,
+				[
+					[
+						"Tween Zoom",
+						"1.2,0.5",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				67826.0869565217,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				68260.8695652174,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				68369.5652173913,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				68478.2608695652,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				68913.0434782609,
+				[
+					[
+						"Play Animation",
+						"ngyah",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				69130.4347826087,
+				[
+					[
+						"Tween Zoom",
+						"1.25,0.8",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				69565.2173913043,
+				[
+					[
+						"Force Focus",
+						"",
+						""
+					],
+					[
+						"Tween Zoom",
+						"1.2,4",
+						"cubeInOut"
+					]
+				]
+			],
+			[
+				74130.4347826087,
+				[
+					[
+						"Play Animation",
+						"lets",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				74347.8260869565,
+				[
+					[
+						"Play Animation",
+						"go",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.25,0.6",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				74673.9130434782,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				74782.6086956522,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				75434.7826086956,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				75652.1739130435,
+				[
+					[
+						"Tween Zoom",
+						"1.2,1",
+						"cubeOut"
+					],
+					[
+						"Force Focus",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				75760.8695652174,
+				[
+					[
+						"Play Animation",
+						"mokey",
+						"dad"
+					]
+				]
+			],
+			[
+				77173.9130434782,
+				[
+					[
+						"Tween Zoom",
+						"1.25,1",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				77826.0869565217,
+				[
+					[
+						"Tween Zoom",
+						"1.2,1",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				79130.4347826087,
+				[
+					[
+						"Force Focus",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				79782.6086956522,
+				[
+					[
+						"Play Animation",
+						"ngyah",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Tween Zoom",
+						"1.25,1",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				81086.9565217391,
+				[
+					[
+						"Play Animation",
+						"lets",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.275,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				81304.3478260869,
+				[
+					[
+						"Play Animation",
+						"go",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.3,0.6",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				81630.4347826087,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				81739.1304347826,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				82391.3043478261,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				82826.0869565217,
+				[
+					[
+						"Play Animation",
+						"ngyah",
+						"dad"
+					],
+					[
+						"Tween Zoom",
+						"1.275,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				83043.4782608696,
+				[
+					[
+						"Tween Zoom",
+						"1.25,0.6",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				83478.2608695652,
+				[
+					[
+						"Tween Zoom",
+						"1.2,4 ",
+						"cubeInOut"
+					],
+					[
+						"Force Focus",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				85217.3913043478,
+				[
+					[
+						"Force Focus",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				86195.652173913,
+				[
+					[
+						"Play Animation",
+						"mokey",
+						"dad"
+					]
+				]
+			],
+			[
+				86304.3478260869,
+				[
+					[
+						"Tween Zoom",
+						"1.225,0.3",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				86521.7391304348,
+				[
+					[
+						"Tween Zoom",
+						"1.275,0.6",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				86956.5217391304,
+				[
+					[
+						"Force Focus",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87391.3043478261,
+				[
+					[
+						"Tween Zoom",
+						"1.3,0.4",
+						"cubeIn"
+					]
+				]
+			],
+			[
+				87826.0869565217,
+				[
+					[
+						"Tween Zoom",
+						"1.275,0.3",
+						"cubeIn"
+					]
+				]
+			],
+			[
+				88260.8695652174,
+				[
+					[
+						"Tween Zoom",
+						"1.25,0.6",
+						"cubeIn"
+					]
+				]
+			],
+			[
+				89456.5217391304,
+				[
+					[
+						"Tween Zoom",
+						"1.4,0.8",
+						"cubeIn"
+					]
+				]
+			],
+			[
+				90217.3913043478,
+				[
+					[
+						"Tween Zoom",
+						"1.2,1",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				90434.7826086956,
+				[
+					[
+						"Force Focus",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				93913.0434782608,
+				[
+					[
+						"Force Focus",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95652.1739130435,
+				[
+					[
+						"Force Focus",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				97391.3043478261,
+				[
+					[
+						"Force Focus",
+						"bf",
+						""
+					]
+				]
+			]
+		]
+	}
+}

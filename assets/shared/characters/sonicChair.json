@@ -1,0 +1,223 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-10,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-10,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-17,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-7,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-6,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss left"
+		},
+		{
+			"offsets": [
+				6,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss down"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss up"
+		},
+		{
+			"offsets": [
+				-13,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss right"
+		},
+		{
+			"offsets": [
+				12,
+				25
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-froggy",
+			"indices": [],
+			"name": "froggy idle"
+		},
+		{
+			"offsets": [
+				-7,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-froggy",
+			"indices": [],
+			"name": "froggy left"
+		},
+		{
+			"offsets": [
+				-4,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-froggy",
+			"indices": [],
+			"name": "froggy up"
+		},
+		{
+			"offsets": [
+				-18,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-froggy",
+			"indices": [],
+			"name": "froggy right"
+		},
+		{
+			"offsets": [
+				-5,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-froggy",
+			"indices": [],
+			"name": "froggy down"
+		},
+		{
+			"offsets": [
+				0,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "catchFroggy",
+			"indices": [],
+			"name": "froggy catch"
+		},
+		{
+			"offsets": [
+				392,
+				507
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "gameover",
+			"indices": [],
+			"name": "froggy death"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				0
+			],
+			"anim": "alright",
+			"fps": 24,
+			"name": "alright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				5
+			],
+			"anim": "okay",
+			"fps": 24,
+			"name": "okay",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/sonicChair,characters/sonicChairGameover,characters/sonicChairAnims",
+	"position": [
+		0,
+		180
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		94,
+		255
+	],
+	"camera_position": [
+		0,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,29 @@
+{
+	"songs": [
+
+		["Dynamite","bean",[26,180,93]],
+		["Surf Caster","big",[26,180,93]],
+		["Hard-Headed","SG",[26,180,93]],
+		["Mania","aiai",[26,180,93]]
+		
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal,Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "freeplay",
+	"weekName": "freeplay",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true 
+}

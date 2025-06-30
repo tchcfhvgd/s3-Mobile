@@ -1,0 +1,80 @@
+{
+	"_editor_isPlayer": false,
+	"animations": [
+		{
+			"indices": [],
+			"offsets": [
+				15,
+				132
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				87,
+				53
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-18,
+				-73
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				124,
+				239
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				7,
+				9
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"camera_position": [
+		-10,
+		100
+	],
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		189,
+		0
+	],
+	"healthicon": "bean",
+	"image": "characters/Bean",
+	"no_antialiasing": false,
+	"position": [
+		0,
+		350
+	],
+	"scale": 1,
+	"sing_duration": 2.7,
+	"vocals_file": ""
+}

@@ -1,0 +1,256 @@
+{
+	"_editor_isPlayer": false,
+	"animations": [
+		{
+			"anim": "idle",
+			"fps": 24,
+			"indices": [],
+			"loop": true,
+			"name": "SPRITES/idle",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "left-metal",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/metal left",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "down-metal",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/metal down",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "up-metal",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/metal up",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "right-metal",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/metal right",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "right-sonic",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/sonic right",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "down-sonic",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/sonic down",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "up-sonic",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/sonic up",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "left-sonic",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/sonic left",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "left-sonic-burn",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/burning sonic left",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "down-sonic-burn",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/burning sonic down",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "up-sonic-burn",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/burning sonic up",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "right-sonic-burn",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/burning sonic right",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "right-metal-burn",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/burning metal right",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "left-metal-burn",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/burning metal left",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "down-metal-burn",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/burning metal down",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "up-metal-burn",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/burning metal up",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "grahhh",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/grahhh",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "gah",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/sonic gah",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "shutdown",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/metal shut down",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "turnoff",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "SPRITES/metal turn off",
+			"offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"healthicon": "face",
+	"image": "characters/stardustClash",
+	"no_antialiasing": false,
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"sing_duration": 4,
+	"vocals_file": ""
+}

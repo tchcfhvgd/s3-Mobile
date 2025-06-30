@@ -1,0 +1,129 @@
+{
+	"_editor_isPlayer": true,
+	"animations": [
+		{
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "retryLoop",
+			"loop": true,
+			"name": "SONIC RETRY LOOP"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				5,
+				46
+			],
+			"fps": 24,
+			"anim": "confirm",
+			"loop": false,
+			"name": "SONIC RETRY CONFIRM"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				121,
+				174
+			],
+			"fps": 24,
+			"anim": "cancel",
+			"loop": false,
+			"name": "SONIC RETRY DECONFIRM LOOP"
+		},
+		{
+			"indices": [
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90
+			],
+			"offsets": [
+				121,
+				174
+			],
+			"fps": 24,
+			"anim": "cancel-loop",
+			"loop": false,
+			"name": "SONIC RETRY DECONFIRM LOOP"
+		},
+		{
+			"indices": [
+				23,
+				24
+			],
+			"offsets": [
+				5,
+				46
+			],
+			"fps": 24,
+			"anim": "confirm-loop",
+			"loop": true,
+			"name": "SONIC RETRY CONFIRM"
+		}
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"healthicon": "sonic",
+	"image": "characters/sonic/sonicRetry,characters/sonic/sonicRetryActions",
+	"no_antialiasing": false,
+	"position": [
+		0,
+		240
+	],
+	"scale": 0.7,
+	"sing_duration": 4,
+	"vocals_file": ""
+}

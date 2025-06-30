@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Scrambled", "eggman", [165, 0, 77]],
+		["Metallic Medley", "sonic-metal", [165, 0, 77]],
+		["Stardust Shutdown", "sonic-metal", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"eggman-scrambled,eggman-scrambled-hidden",
+		"",
+		"sonic-stardust"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "funkin-hills",
+	"weekName": "Tutorial",
+	"startUnlocked": false,
+	"difficulties": "Normal,Hard",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"storyColour": "0xFF0017ff"
+}

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="sonicChair.png" width="6691" height="6604">
+	<SubTexture name="down0000" x="1" y="5310" width="780" height="337" rotated="true" frameX="-0" frameY="-22" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0001" x="1" y="5310" width="780" height="337" rotated="true" frameX="-0" frameY="-22" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0002" x="4573" y="1677" width="336" height="818" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0003" x="4573" y="1677" width="336" height="818" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0004" x="3370" y="2652" width="336" height="872" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0005" x="3370" y="2652" width="336" height="872" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0006" x="3082" y="887" width="336" height="878" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0007" x="3082" y="887" width="336" height="878" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0008" x="3395" y="4422" width="836" height="336" rotated="true" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0009" x="3395" y="4422" width="836" height="336" rotated="true" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0010" x="3395" y="4422" width="836" height="336" rotated="true" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0011" x="3395" y="4422" width="836" height="336" rotated="true" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0012" x="3395" y="4422" width="836" height="336" rotated="true" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0013" x="3395" y="4422" width="836" height="336" rotated="true" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="down0014" x="3395" y="4422" width="836" height="336" rotated="true" frameX="-0" frameY="-0" frameWidth="338" frameHeight="878"/>
+	<SubTexture name="froggy catch0000" x="1710" y="4801" width="791" height="377" rotated="true" frameX="-3" frameY="-109" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0001" x="1710" y="4801" width="791" height="377" rotated="true" frameX="-3" frameY="-109" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0002" x="5263" y="1637" width="766" height="365" rotated="true" frameX="-0" frameY="-91" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0003" x="5263" y="1637" width="766" height="365" rotated="true" frameX="-0" frameY="-91" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0004" x="4820" y="5192" width="715" height="441" rotated="true" frameX="-7" frameY="-51" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0005" x="4820" y="5192" width="715" height="441" rotated="true" frameX="-7" frameY="-51" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0006" x="5381" y="4256" width="564" height="714" frameX="-4" frameY="-45" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0007" x="1" y="5652" width="714" height="564" rotated="true" frameX="-4" frameY="-45" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0008" x="5499" y="1" width="568" height="767" frameX="-4" frameY="-0" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0009" x="5499" y="773" width="568" height="767" frameX="-4" frameY="-0" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0010" x="5373" y="3528" width="592" height="723" frameX="-4" frameY="-41" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0011" x="5395" y="2007" width="592" height="723" frameX="-4" frameY="-41" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0012" x="2506" y="5176" width="696" height="618" rotated="true" frameX="-4" frameY="-63" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0013" x="6072" y="1" width="618" height="696" frameX="-4" frameY="-63" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0014" x="5992" y="2007" width="694" height="658" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0015" x="5970" y="3459" width="694" height="658" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0016" x="720" y="5652" width="701" height="556" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0017" x="1426" y="5651" width="701" height="556" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0018" x="3207" y="5651" width="441" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0019" x="3653" y="5651" width="441" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0020" x="4099" y="5651" width="439" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0021" x="4543" y="5651" width="439" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0022" x="2132" y="5799" width="557" height="404" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0023" x="4987" y="5638" width="404" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0024" x="5396" y="5638" width="375" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0025" x="6072" y="702" width="557" height="375" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0026" x="6034" y="1545" width="557" height="415" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0027" x="6072" y="1082" width="557" height="415" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0028" x="1651" y="5183" width="557" height="406" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0029" x="5540" y="4975" width="406" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0030" x="5776" y="5537" width="368" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0031" x="6003" y="2670" width="557" height="368" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0032" x="5776" y="5537" width="368" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0033" x="6003" y="2670" width="557" height="368" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0034" x="5776" y="5537" width="368" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0035" x="6003" y="2670" width="557" height="368" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0036" x="5776" y="5537" width="368" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0037" x="6003" y="2670" width="557" height="368" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0038" x="5776" y="5537" width="368" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0039" x="6003" y="2670" width="557" height="368" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0040" x="5776" y="5537" width="368" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0041" x="6003" y="2670" width="557" height="368" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0042" x="5776" y="5537" width="368" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0043" x="6003" y="2670" width="557" height="368" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0044" x="5776" y="5537" width="368" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0045" x="6003" y="3043" width="557" height="406" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0046" x="6149" y="4122" width="406" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0047" x="6149" y="4684" width="389" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0048" x="6149" y="5246" width="389" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0049" x="1" y="6221" width="557" height="382" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0050" x="563" y="6221" width="557" height="382" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0051" x="1125" y="6213" width="557" height="390" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0052" x="1687" y="6213" width="557" height="369" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0053" x="2249" y="6213" width="557" height="369" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0054" x="2811" y="6213" width="557" height="364" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0055" x="3373" y="6213" width="557" height="364" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0056" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0057" x="6003" y="3043" width="557" height="406" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0058" x="6149" y="4122" width="406" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0059" x="6149" y="4684" width="389" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0060" x="6149" y="5246" width="389" height="557" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0061" x="1" y="6221" width="557" height="382" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0062" x="563" y="6221" width="557" height="382" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0063" x="1125" y="6213" width="557" height="390" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0064" x="1687" y="6213" width="557" height="369" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0065" x="2249" y="6213" width="557" height="369" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0066" x="2811" y="6213" width="557" height="364" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0067" x="3373" y="6213" width="557" height="364" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0068" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0069" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0070" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0071" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0072" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0073" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0074" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0075" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0076" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0077" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0078" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0079" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0080" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0081" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0082" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0083" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0084" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0085" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0086" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0087" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0088" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0089" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0090" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0091" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0092" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0093" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0094" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0095" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0096" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0097" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0098" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0099" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0100" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0101" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0102" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0103" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0104" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0105" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0106" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0107" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0108" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0109" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0110" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0111" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0112" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0113" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0114" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0115" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0116" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0117" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0118" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0119" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0120" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0121" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0122" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0123" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0124" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0125" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0126" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0127" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0128" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0129" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0130" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0131" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0132" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0133" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0134" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0135" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0136" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0137" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0138" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0139" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0140" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0141" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0142" x="3935" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy catch0143" x="4497" y="6213" width="557" height="378" rotated="true" frameX="-4" frameY="-68" frameWidth="662" frameHeight="902"/>
+	<SubTexture name="froggy down0000" x="2506" y="4830" width="782" height="341" rotated="true" frameX="-0" frameY="-60" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0001" x="2506" y="4830" width="782" height="341" rotated="true" frameX="-0" frameY="-60" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0002" x="4706" y="838" width="331" height="816" frameX="-7" frameY="-0" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0003" x="4706" y="838" width="331" height="816" frameX="-7" frameY="-0" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0004" x="3029" y="2652" width="336" height="873" frameX="-2" frameY="-12" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0005" x="3029" y="2652" width="336" height="873" frameX="-2" frameY="-12" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0006" x="2741" y="1" width="336" height="882" frameX="-2" frameY="-12" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0007" x="2741" y="1" width="336" height="882" frameX="-2" frameY="-12" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0008" x="4232" y="1749" width="336" height="844" frameX="-2" frameY="-12" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0009" x="4232" y="1749" width="336" height="844" frameX="-2" frameY="-12" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0010" x="4232" y="1749" width="336" height="844" frameX="-2" frameY="-12" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0011" x="4232" y="1749" width="336" height="844" frameX="-2" frameY="-12" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0012" x="4232" y="1749" width="336" height="844" frameX="-2" frameY="-12" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0013" x="4232" y="1749" width="336" height="844" frameX="-2" frameY="-12" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy down0014" x="4232" y="1749" width="336" height="844" frameX="-2" frameY="-12" frameWidth="342" frameHeight="895"/>
+	<SubTexture name="froggy idle0000" x="5395" y="2735" width="603" height="719" frameX="-7" frameY="-0" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0001" x="5395" y="2735" width="603" height="719" frameX="-7" frameY="-0" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0002" x="4925" y="1" width="569" height="819" frameX="-0" frameY="-0" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0003" x="4925" y="1" width="569" height="819" frameX="-0" frameY="-0" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0004" x="1" y="2113" width="894" height="573" rotated="true" frameX="-4" frameY="-27" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0005" x="1" y="2113" width="894" height="573" rotated="true" frameX="-4" frameY="-27" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0006" x="683" y="1" width="567" height="929" frameX="-12" frameY="-16" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0007" x="683" y="1" width="567" height="929" frameX="-12" frameY="-16" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0008" x="4063" y="5192" width="752" height="454" rotated="true" frameX="-43" frameY="-26" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0009" x="4063" y="5192" width="752" height="454" rotated="true" frameX="-43" frameY="-26" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0010" x="3293" y="5104" width="765" height="506" rotated="true" frameX="-38" frameY="-16" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0011" x="3293" y="5104" width="765" height="506" rotated="true" frameX="-38" frameY="-16" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0012" x="1841" y="914" width="885" height="533" rotated="true" frameX="-21" frameY="-29" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0013" x="1841" y="914" width="885" height="533" rotated="true" frameX="-21" frameY="-29" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy idle0014" x="4236" y="4632" width="788" height="555" rotated="true" frameX="-26" frameY="-13" frameWidth="611" frameHeight="945"/>
+	<SubTexture name="froggy left0000" x="2634" y="3623" width="869" height="346" rotated="true" frameX="-2" frameY="-0" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0001" x="2634" y="3623" width="869" height="346" rotated="true" frameX="-2" frameY="-0" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0002" x="2397" y="1" width="339" height="891" frameX="-0" frameY="-13" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0003" x="2397" y="1" width="339" height="891" frameX="-0" frameY="-13" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0004" x="1" y="1" width="335" height="936" frameX="-1" frameY="-7" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0005" x="1" y="1" width="335" height="936" frameX="-1" frameY="-7" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0006" x="1721" y="4117" width="849" height="335" rotated="true" frameX="-1" frameY="-7" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0007" x="1721" y="4117" width="849" height="335" rotated="true" frameX="-1" frameY="-7" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0008" x="878" y="3777" width="856" height="335" rotated="true" frameX="-1" frameY="-7" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0009" x="878" y="3777" width="856" height="335" rotated="true" frameX="-1" frameY="-7" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0010" x="908" y="1668" width="901" height="335" rotated="true" frameX="-1" frameY="-7" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0011" x="908" y="1668" width="901" height="335" rotated="true" frameX="-1" frameY="-7" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0012" x="908" y="1668" width="901" height="335" rotated="true" frameX="-1" frameY="-7" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0013" x="908" y="1668" width="901" height="335" rotated="true" frameX="-1" frameY="-7" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy left0014" x="908" y="1668" width="901" height="335" rotated="true" frameX="-1" frameY="-7" frameWidth="349" frameHeight="943"/>
+	<SubTexture name="froggy right0000" x="3082" y="1" width="438" height="881" frameX="-7" frameY="-41" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0001" x="3082" y="1" width="438" height="881" frameX="-7" frameY="-41" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0002" x="1" y="1284" width="908" height="379" rotated="true" frameX="-0" frameY="-8" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0003" x="1" y="1284" width="908" height="379" rotated="true" frameX="-0" frameY="-8" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0004" x="1255" y="1" width="375" height="914" frameX="-1" frameY="-0" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0005" x="1255" y="1" width="375" height="914" frameX="-1" frameY="-0" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0006" x="2681" y="1452" width="388" height="882" frameX="-1" frameY="-0" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0007" x="2681" y="1452" width="388" height="882" frameX="-1" frameY="-0" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0008" x="1" y="4091" width="858" height="400" rotated="true" frameX="-1" frameY="-0" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0009" x="1" y="4091" width="858" height="400" rotated="true" frameX="-1" frameY="-0" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0010" x="2175" y="1452" width="390" height="885" frameX="-1" frameY="-0" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0011" x="2175" y="1452" width="390" height="885" frameX="-1" frameY="-0" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0012" x="3419" y="1770" width="384" height="872" frameX="-1" frameY="-0" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0013" x="3419" y="1770" width="384" height="872" frameX="-1" frameY="-0" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy right0014" x="3419" y="1770" width="384" height="872" frameX="-1" frameY="-0" frameWidth="445" frameHeight="923"/>
+	<SubTexture name="froggy up0000" x="889" y="3062" width="875" height="345" rotated="true" frameX="-6" frameY="-0" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0001" x="889" y="3062" width="875" height="345" rotated="true" frameX="-6" frameY="-0" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0002" x="1" y="4962" width="795" height="343" rotated="true" frameX="-0" frameY="-26" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0003" x="1" y="4962" width="795" height="343" rotated="true" frameX="-0" frameY="-26" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0004" x="3074" y="1770" width="340" height="877" frameX="-4" frameY="-7" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0005" x="3074" y="1770" width="340" height="877" frameX="-4" frameY="-7" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0006" x="4580" y="1" width="340" height="832" frameX="-4" frameY="-7" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0007" x="4580" y="1" width="340" height="832" frameX="-4" frameY="-7" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0008" x="2575" y="4077" width="848" height="340" rotated="true" frameX="-4" frameY="-7" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0009" x="2575" y="4077" width="848" height="340" rotated="true" frameX="-4" frameY="-7" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0010" x="2575" y="4077" width="848" height="340" rotated="true" frameX="-4" frameY="-7" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0011" x="2575" y="4077" width="848" height="340" rotated="true" frameX="-4" frameY="-7" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0012" x="2575" y="4077" width="848" height="340" rotated="true" frameX="-4" frameY="-7" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0013" x="2575" y="4077" width="848" height="340" rotated="true" frameX="-4" frameY="-7" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="froggy up0014" x="2575" y="4077" width="848" height="340" rotated="true" frameX="-4" frameY="-7" frameWidth="351" frameHeight="885"/>
+	<SubTexture name="idle0000" x="4571" y="3528" width="797" height="376" rotated="true" frameX="-0" frameY="-19" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0001" x="4571" y="3528" width="797" height="376" rotated="true" frameX="-0" frameY="-19" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0002" x="4571" y="3909" width="796" height="377" rotated="true" frameX="-0" frameY="-12" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0003" x="4571" y="3909" width="796" height="377" rotated="true" frameX="-0" frameY="-12" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0004" x="2553" y="4457" width="837" height="368" rotated="true" frameX="-0" frameY="-7" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0005" x="2553" y="4457" width="837" height="368" rotated="true" frameX="-0" frameY="-7" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0006" x="5042" y="825" width="336" height="807" frameX="-8" frameY="-1" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0007" x="5042" y="825" width="336" height="807" frameX="-8" frameY="-1" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0008" x="3395" y="4763" width="787" height="336" rotated="true" frameX="-4" frameY="-0" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0009" x="3395" y="4763" width="787" height="336" rotated="true" frameX="-4" frameY="-0" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0010" x="4236" y="4291" width="796" height="336" rotated="true" frameX="-4" frameY="-0" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0011" x="4236" y="4291" width="796" height="336" rotated="true" frameX="-4" frameY="-0" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0012" x="4574" y="3187" width="801" height="336" rotated="true" frameX="-4" frameY="-0" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0013" x="4574" y="2844" width="802" height="338" rotated="true" frameX="-4" frameY="-1" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="idle0014" x="4574" y="2844" width="802" height="338" rotated="true" frameX="-4" frameY="-1" frameWidth="377" frameHeight="844"/>
+	<SubTexture name="left0000" x="3892" y="1" width="345" height="869" frameX="-0" frameY="-0" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0001" x="3892" y="1" width="345" height="869" frameX="-0" frameY="-0" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0002" x="1814" y="1634" width="356" height="893" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0003" x="1814" y="1634" width="356" height="893" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0004" x="341" y="1" width="337" height="932" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0005" x="341" y="1" width="337" height="932" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0006" x="4242" y="1" width="333" height="845" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0007" x="4242" y="1" width="333" height="845" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0008" x="864" y="4117" width="852" height="337" rotated="true" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0009" x="864" y="4117" width="852" height="337" rotated="true" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0010" x="2059" y="1" width="333" height="897" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0011" x="2059" y="1" width="333" height="897" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0012" x="2059" y="1" width="333" height="897" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0013" x="2059" y="1" width="333" height="897" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="left0014" x="2059" y="1" width="333" height="897" frameX="-0" frameY="-6" frameWidth="356" frameHeight="938"/>
+	<SubTexture name="miss down0000" x="801" y="5294" width="779" height="339" rotated="true" frameX="-12" frameY="-0" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0001" x="4242" y="851" width="459" height="821" frameX="-4" frameY="-110" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0002" x="4242" y="851" width="459" height="821" frameX="-4" frameY="-110" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0003" x="1" y="3161" width="877" height="469" rotated="true" frameX="-0" frameY="-127" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0004" x="1" y="3161" width="877" height="469" rotated="true" frameX="-0" frameY="-127" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0005" x="1" y="2691" width="883" height="465" rotated="true" frameX="-0" frameY="-127" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0006" x="1" y="2691" width="883" height="465" rotated="true" frameX="-0" frameY="-127" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0007" x="864" y="4459" width="841" height="465" rotated="true" frameX="-0" frameY="-127" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0008" x="864" y="4459" width="841" height="465" rotated="true" frameX="-0" frameY="-127" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0009" x="864" y="4459" width="841" height="465" rotated="true" frameX="-0" frameY="-127" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0010" x="864" y="4459" width="841" height="465" rotated="true" frameX="-0" frameY="-127" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0011" x="864" y="4459" width="841" height="465" rotated="true" frameX="-0" frameY="-127" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0012" x="864" y="4459" width="841" height="465" rotated="true" frameX="-0" frameY="-127" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0013" x="864" y="4459" width="841" height="465" rotated="true" frameX="-0" frameY="-127" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss down0014" x="864" y="4459" width="841" height="465" rotated="true" frameX="-0" frameY="-127" frameWidth="469" frameHeight="1010"/>
+	<SubTexture name="miss left0000" x="3892" y="875" width="345" height="869" frameX="-4" frameY="-0" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0001" x="900" y="2350" width="888" height="333" rotated="true" frameX="-4" frameY="-30" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0002" x="900" y="2350" width="888" height="333" rotated="true" frameX="-4" frameY="-30" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0003" x="1" y="942" width="927" height="337" rotated="true" frameX="-0" frameY="-43" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0004" x="1" y="942" width="927" height="337" rotated="true" frameX="-0" frameY="-43" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0005" x="4232" y="2598" width="337" height="840" frameX="-0" frameY="-43" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0006" x="4232" y="2598" width="337" height="840" frameX="-0" frameY="-43" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0007" x="3508" y="3529" width="337" height="847" frameX="-0" frameY="-43" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0008" x="3508" y="3529" width="337" height="847" frameX="-0" frameY="-43" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0009" x="908" y="2008" width="892" height="337" rotated="true" frameX="-0" frameY="-43" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0010" x="908" y="2008" width="892" height="337" rotated="true" frameX="-0" frameY="-43" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0011" x="908" y="2008" width="892" height="337" rotated="true" frameX="-0" frameY="-43" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0012" x="908" y="2008" width="892" height="337" rotated="true" frameX="-0" frameY="-43" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0013" x="908" y="2008" width="892" height="337" rotated="true" frameX="-0" frameY="-43" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss left0014" x="908" y="2008" width="892" height="337" rotated="true" frameX="-0" frameY="-43" frameWidth="349" frameHeight="970"/>
+	<SubTexture name="miss right0000" x="1793" y="2532" width="883" height="369" rotated="true" frameX="-5" frameY="-0" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0001" x="1635" y="1" width="419" height="908" frameX="-0" frameY="-24" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0002" x="1635" y="1" width="419" height="908" frameX="-0" frameY="-24" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0003" x="1" y="1668" width="902" height="440" rotated="true" frameX="-0" frameY="-27" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0004" x="1" y="1668" width="902" height="440" rotated="true" frameX="-0" frameY="-27" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0005" x="1759" y="3623" width="870" height="449" rotated="true" frameX="-0" frameY="-27" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0006" x="1759" y="3623" width="870" height="449" rotated="true" frameX="-0" frameY="-27" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0007" x="1" y="4496" width="845" height="461" rotated="true" frameX="-0" frameY="-27" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0008" x="1" y="4496" width="845" height="461" rotated="true" frameX="-0" frameY="-27" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0009" x="1" y="3635" width="872" height="451" rotated="true" frameX="-0" frameY="-27" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0010" x="1" y="3635" width="872" height="451" rotated="true" frameX="-0" frameY="-27" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0011" x="3711" y="2647" width="445" height="860" frameX="-0" frameY="-27" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0012" x="3711" y="2647" width="445" height="860" frameX="-0" frameY="-27" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0013" x="3711" y="2647" width="445" height="860" frameX="-0" frameY="-27" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss right0014" x="3711" y="2647" width="445" height="860" frameX="-0" frameY="-27" frameWidth="461" frameHeight="933"/>
+	<SubTexture name="miss up0000" x="2681" y="2339" width="343" height="876" frameX="-0" frameY="-0" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0001" x="851" y="4929" width="795" height="360" rotated="true" frameX="-9" frameY="-62" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0002" x="851" y="4929" width="795" height="360" rotated="true" frameX="-9" frameY="-62" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0003" x="1769" y="3250" width="875" height="368" rotated="true" frameX="-9" frameY="-68" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0004" x="1769" y="3250" width="875" height="368" rotated="true" frameX="-9" frameY="-68" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0005" x="4914" y="1659" width="344" height="814" frameX="-9" frameY="-68" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0006" x="4914" y="1659" width="344" height="814" frameX="-9" frameY="-68" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0007" x="1710" y="4459" width="838" height="337" rotated="true" frameX="-9" frameY="-68" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0008" x="1710" y="4459" width="838" height="337" rotated="true" frameX="-9" frameY="-68" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0009" x="1710" y="4459" width="838" height="337" rotated="true" frameX="-9" frameY="-68" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0010" x="1710" y="4459" width="838" height="337" rotated="true" frameX="-9" frameY="-68" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0011" x="1710" y="4459" width="838" height="337" rotated="true" frameX="-9" frameY="-68" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0012" x="1710" y="4459" width="838" height="337" rotated="true" frameX="-9" frameY="-68" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0013" x="1710" y="4459" width="838" height="337" rotated="true" frameX="-9" frameY="-68" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="miss up0014" x="1710" y="4459" width="838" height="337" rotated="true" frameX="-9" frameY="-68" frameWidth="377" frameHeight="943"/>
+	<SubTexture name="right0000" x="900" y="2688" width="883" height="369" rotated="true" frameX="-1" frameY="-14" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0001" x="900" y="2688" width="883" height="369" rotated="true" frameX="-1" frameY="-14" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0002" x="914" y="1284" width="904" height="345" rotated="true" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0003" x="914" y="1284" width="904" height="345" rotated="true" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0004" x="933" y="935" width="903" height="344" rotated="true" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0005" x="933" y="935" width="903" height="344" rotated="true" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0006" x="883" y="3412" width="871" height="360" rotated="true" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0007" x="883" y="3412" width="871" height="360" rotated="true" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0008" x="3850" y="3512" width="372" height="846" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0009" x="3850" y="3512" width="372" height="846" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0010" x="3525" y="1" width="362" height="873" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0011" x="3525" y="1" width="362" height="873" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0012" x="3872" y="1749" width="355" height="860" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0013" x="3872" y="1749" width="355" height="860" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="right0014" x="3872" y="1749" width="355" height="860" frameX="-0" frameY="-0" frameWidth="372" frameHeight="905"/>
+	<SubTexture name="up0000" x="3525" y="879" width="342" height="873" frameX="-0" frameY="-2" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0001" x="3525" y="879" width="342" height="873" frameX="-0" frameY="-2" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0002" x="5037" y="4291" width="339" height="791" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0003" x="5037" y="4291" width="339" height="791" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0004" x="1788" y="2906" width="876" height="339" rotated="true" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0005" x="1788" y="2906" width="876" height="339" rotated="true" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0006" x="4574" y="2500" width="816" height="339" rotated="true" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0007" x="4574" y="2500" width="816" height="339" rotated="true" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0008" x="4227" y="3443" width="339" height="840" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0009" x="4227" y="3443" width="339" height="840" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0010" x="4227" y="3443" width="339" height="840" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0011" x="4227" y="3443" width="339" height="840" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0012" x="4227" y="3443" width="339" height="840" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0013" x="4227" y="3443" width="339" height="840" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+	<SubTexture name="up0014" x="4227" y="3443" width="339" height="840" frameX="-0" frameY="-0" frameWidth="343" frameHeight="880"/>
+</TextureAtlas>

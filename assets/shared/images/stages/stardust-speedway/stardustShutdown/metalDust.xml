@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="metalDust.png" width="1298" height="741">
+	<SubTexture name="bigger hover dust0000" x="651" y="377" width="611" height="179" frameX="-17" frameY="-0" frameWidth="657" frameHeight="179"/>
+	<SubTexture name="bigger hover dust0001" x="1" y="595" width="640" height="145" frameX="-0" frameY="-34" frameWidth="657" frameHeight="179"/>
+	<SubTexture name="bigger hover dust0002" x="647" y="581" width="625" height="152" frameX="-11" frameY="-27" frameWidth="657" frameHeight="179"/>
+	<SubTexture name="bigger hover dust0003" x="1" y="377" width="645" height="145" frameX="-11" frameY="-34" frameWidth="657" frameHeight="179"/>
+	<SubTexture name="bigger hover dust0004" x="1" y="218" width="646" height="154" frameX="-11" frameY="-25" frameWidth="657" frameHeight="179"/>
+	<SubTexture name="hover dust0000" x="654" y="184" width="625" height="99" frameX="-17" frameY="-0" frameWidth="657" frameHeight="99"/>
+	<SubTexture name="hover dust0001" x="657" y="1" width="640" height="80" frameX="-0" frameY="-19" frameWidth="657" frameHeight="99"/>
+	<SubTexture name="hover dust0002" x="654" y="94" width="627" height="85" frameX="-9" frameY="-14" frameWidth="657" frameHeight="99"/>
+	<SubTexture name="hover dust0003" x="1" y="132" width="648" height="81" frameX="-9" frameY="-18" frameWidth="657" frameHeight="99"/>
+	<SubTexture name="hover dust0004" x="1" y="41" width="648" height="86" frameX="-9" frameY="-13" frameWidth="657" frameHeight="99"/>
+	<SubTexture name="hover dust crumble0000" x="1" y="41" width="648" height="86" frameX="-0" frameY="-0" frameWidth="657" frameHeight="99"/>
+	<SubTexture name="hover dust crumble0001" x="1" y="1" width="651" height="35" frameX="-0" frameY="-51" frameWidth="657" frameHeight="99"/>
+	<SubTexture name="hover dust crumble0002" x="1" y="527" width="643" height="22" frameX="-0" frameY="-65" frameWidth="657" frameHeight="99"/>
+	<SubTexture name="hover dust crumble0003" x="1" y="554" width="642" height="22" frameX="-0" frameY="-65" frameWidth="657" frameHeight="99"/>
+	<SubTexture name="hover dust crumble0004" x="1" y="581" width="641" height="9" frameX="-0" frameY="-78" frameWidth="657" frameHeight="99"/>
+	<SubTexture name="hover dust crumble0005" x="654" y="86" width="637" height="3" frameX="-1" frameY="-84" frameWidth="657" frameHeight="99"/>
+	<SubTexture name="hover dust crumble0006" x="1296" y="86" width="1" height="1" frameX="-0" frameY="-0" frameWidth="657" frameHeight="99"/>
+</TextureAtlas>

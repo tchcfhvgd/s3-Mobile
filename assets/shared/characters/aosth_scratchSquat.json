@@ -1,0 +1,102 @@
+{
+	"_editor_isPlayer": false,
+	"animations": [
+		{
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "SCRATCH SQUAT IDLE"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				17,
+				29
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SCRATCH SQUAT DOWN"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				40,
+				62
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SCRATCH SQUAT LEFT"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-9,
+				37
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SCRATCH SQUAT UP"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-6,
+				18
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SCRATCH SQUAT RIGHT"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				785,
+				-24
+			],
+			"fps": 24,
+			"anim": "surprised",
+			"loop": false,
+			"name": "SUPRISE"
+		},
+		{
+			"indices": [67],
+			"offsets": [
+				785,
+				-24
+			],
+			"fps": 24,
+			"anim": "surprised-loop",
+			"loop": true,
+			"name": "SUPRISE"
+		}
+	],
+	"camera_position": [
+		-800,
+		0
+	],
+	"flip_x": false,
+	"healthbar_colors": [
+		91,
+		109,
+		143
+	],
+	"healthicon": "SG",
+	"image": "characters/scrachSquat",
+	"no_antialiasing": false,
+	"position": [
+		0,
+		350
+	],
+	"scale": 1,
+	"sing_duration": 4,
+	"vocals_file": ""
+}

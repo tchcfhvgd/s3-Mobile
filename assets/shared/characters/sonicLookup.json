@@ -1,0 +1,255 @@
+{
+	"_editor_isPlayer": true,
+	"animations": [
+		{
+			"indices": [],
+			"offsets": [
+				80,
+				-54
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "miss left"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				14,
+				-113
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "miss down"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-25,
+				-3
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "miss up"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-23,
+				-55
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "miss right"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "look_idle"
+		},
+		{
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle-loopable",
+			"loop": true,
+			"name": "look_idle"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				48,
+				-44
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "look_left"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				20,
+				-123
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "look_down"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-26,
+				-6
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "look_up"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-20,
+				-41
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "look_right"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				67,
+				36
+			],
+			"fps": 24,
+			"anim": "sneeze",
+			"loop": false,
+			"name": "sneeze"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				71,
+				251
+			],
+			"fps": 24,
+			"anim": "jump",
+			"loop": false,
+			"name": "jump"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				72,
+				209
+			],
+			"fps": 24,
+			"anim": "jumpFail",
+			"loop": false,
+			"name": "fail jump"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-27,
+				-12
+			],
+			"fps": 24,
+			"anim": "hit",
+			"loop": false,
+			"name": "get hit"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				2,
+				135
+			],
+			"fps": 24,
+			"anim": "egghead",
+			"loop": false,
+			"name": "egghead"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				50,
+				-50
+			],
+			"fps": 24,
+			"anim": "ta da",
+			"loop": false,
+			"name": "ta-da"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-14,
+				-26
+			],
+			"fps": 24,
+			"anim": "hey",
+			"loop": true,
+			"name": "peace"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				0,
+				50
+			],
+			"fps": 24,
+			"anim": "gameover",
+			"loop": false,
+			"name": "gameover"
+		},
+		{
+			"anim": "WIN",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "win",
+			"offsets": [
+				40,
+				357
+			]
+		}
+	],
+	"camera_position": [
+		50,
+		-40
+	],
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		94,
+		255
+	],
+	"healthicon": "sonic",
+	"image": "characters/sonicLookup,characters/SonicGameover,characters/sonic/Sonic_win",
+	"no_antialiasing": false,
+	"position": [
+		5,
+		350
+	],
+	"scale": 1,
+	"sing_duration": 4,
+	"vocals_file": ""
+}

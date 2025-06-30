@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="BushBabies.png" width="3672" height="3882">
+	<SubTexture name="bushes0000" x="1680" y="3611" width="1674" height="270" frameX="-0" frameY="-9" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0001" x="1680" y="3611" width="1674" height="270" frameX="-0" frameY="-9" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0002" x="3396" y="1" width="275" height="1665" rotated="true" frameX="-4" frameY="-4" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0003" x="3396" y="1" width="275" height="1665" rotated="true" frameX="-4" frameY="-4" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0004" x="1653" y="3327" width="1647" height="279" frameX="-13" frameY="-0" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0005" x="1653" y="3327" width="1647" height="279" frameX="-13" frameY="-0" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0006" x="1653" y="3327" width="1647" height="279" frameX="-13" frameY="-0" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0007" x="1653" y="3327" width="1647" height="279" frameX="-13" frameY="-0" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0008" x="1653" y="3327" width="1647" height="279" frameX="-13" frameY="-0" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0009" x="1653" y="3327" width="1647" height="279" frameX="-13" frameY="-0" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0010" x="1653" y="3327" width="1647" height="279" frameX="-13" frameY="-0" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0011" x="1653" y="3327" width="1647" height="279" frameX="-13" frameY="-0" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0012" x="1653" y="3327" width="1647" height="279" frameX="-13" frameY="-0" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes0013" x="1653" y="3327" width="1647" height="279" frameX="-13" frameY="-0" frameWidth="1674" frameHeight="279"/>
+	<SubTexture name="bushes babies0000" x="1680" y="3042" width="1647" height="280" frameX="-13" frameY="-179" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0001" x="1680" y="2450" width="1647" height="295" frameX="-13" frameY="-164" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0002" x="1680" y="2450" width="1647" height="295" frameX="-13" frameY="-164" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0003" x="1" y="3055" width="1647" height="280" frameX="-13" frameY="-179" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0004" x="1" y="3055" width="1647" height="280" frameX="-13" frameY="-179" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0005" x="3359" y="1680" width="275" height="1665" rotated="true" frameX="-4" frameY="-184" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0006" x="3359" y="1680" width="275" height="1665" rotated="true" frameX="-4" frameY="-184" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0007" x="1" y="3611" width="1674" height="270" frameX="-0" frameY="-189" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0008" x="1" y="3611" width="1674" height="270" frameX="-0" frameY="-189" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0009" x="1680" y="2750" width="1674" height="287" frameX="-0" frameY="-172" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0010" x="1680" y="2750" width="1674" height="287" frameX="-0" frameY="-172" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0011" x="1680" y="2099" width="1674" height="346" frameX="-0" frameY="-113" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0012" x="1680" y="2099" width="1674" height="346" frameX="-0" frameY="-113" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0013" x="1" y="1" width="1674" height="459" frameX="-0" frameY="-0" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0014" x="1" y="1" width="1674" height="459" frameX="-0" frameY="-0" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0015" x="1680" y="1680" width="1674" height="414" frameX="-0" frameY="-45" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0016" x="1680" y="1680" width="1674" height="414" frameX="-0" frameY="-45" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0017" x="1" y="465" width="1674" height="431" frameX="-0" frameY="-28" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0018" x="1" y="465" width="1674" height="431" frameX="-0" frameY="-28" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0019" x="1" y="901" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0020" x="1" y="901" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0021" x="1" y="1334" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0022" x="1" y="1334" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0023" x="1" y="1334" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0024" x="1" y="1334" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0025" x="1" y="1334" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0026" x="1" y="1334" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0027" x="1" y="1334" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0028" x="1" y="1334" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0029" x="1" y="1334" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0030" x="1" y="1334" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0031" x="1" y="1334" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies0032" x="1" y="1334" width="1674" height="428" frameX="-0" frameY="-31" frameWidth="1674" frameHeight="459"/>
+	<SubTexture name="bushes babies bop0000" x="1" y="2629" width="1674" height="421" frameX="-0" frameY="-6" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0001" x="1" y="2629" width="1674" height="421" frameX="-0" frameY="-6" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0002" x="1" y="2199" width="1674" height="425" frameX="-0" frameY="-2" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0003" x="1" y="2199" width="1674" height="425" frameX="-0" frameY="-2" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0004" x="1680" y="1" width="427" height="1674" rotated="true" frameX="-0" frameY="-0" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0005" x="1680" y="1" width="427" height="1674" rotated="true" frameX="-0" frameY="-0" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0006" x="2973" y="1" width="418" height="1674" rotated="true" frameX="-0" frameY="-9" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0007" x="2973" y="1" width="418" height="1674" rotated="true" frameX="-0" frameY="-9" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0008" x="2544" y="1" width="424" height="1674" rotated="true" frameX="-0" frameY="-3" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0009" x="2544" y="1" width="424" height="1674" rotated="true" frameX="-0" frameY="-3" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0010" x="1" y="1767" width="1674" height="427" frameX="-0" frameY="-0" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0011" x="1" y="1767" width="1674" height="427" frameX="-0" frameY="-0" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0012" x="1" y="1767" width="1674" height="427" frameX="-0" frameY="-0" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0013" x="2112" y="1" width="427" height="1674" rotated="true" frameX="-0" frameY="-0" frameWidth="1674" frameHeight="427"/>
+	<SubTexture name="bushes babies bop0014" x="2112" y="1" width="427" height="1674" rotated="true" frameX="-0" frameY="-0" frameWidth="1674" frameHeight="427"/>
+</TextureAtlas>

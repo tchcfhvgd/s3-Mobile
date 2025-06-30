@@ -1,0 +1,143 @@
+{
+    "access": [
+        {
+            "subs": [
+                {
+                    "text": "You ",
+                    "activeStep": 1814
+                },
+                {
+                    "text": "might ",
+                    "activeStep": 1815
+                },
+                {
+                    "text": "know ",
+                    "activeStep": 1819
+                },
+                {
+                    "text": "everything ",
+                    "activeStep": 1821
+                },
+                {
+                    "text": "I'm ",
+                    "activeStep": 1826
+                },
+                {
+                    "text": "going ",
+                    "activeStep": 1829
+                },
+                {
+                    "text": "to ",
+                    "activeStep": 1831
+                },
+                {
+                    "text": "do,",
+                    "activeStep": 1833
+                }
+            ],
+            "holdSteps": 5,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "But ",
+                    "activeStep": 1838
+                },
+                {
+                    "text": "that's ",
+                    "activeStep": 1841
+                },
+                {
+                    "text": "not ",
+                    "activeStep": 1843
+                },
+                {
+                    "text": "going ",
+                    "activeStep": 1846
+                },
+                {
+                    "text": "to ",
+                    "activeStep": 1848
+                },
+                {
+                    "text": "help ",
+                    "activeStep": 1849
+                },
+                {
+                    "text": "you",
+                    "activeStep": 1853
+                }
+            ],
+            "holdSteps": 5,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Since ",
+                    "activeStep": 1855
+                },
+                {
+                    "text": "I ",
+                    "activeStep": 1859
+                },
+                {
+                    "text": "know ",
+                    "activeStep": 1861
+                },
+                {
+                    "text": "everything ",
+                    "activeStep": 1864
+                },
+                {
+                    "text": "YOU'RE ",
+                    "activeStep": 1868
+                },
+                {
+                    "text": "going ",
+                    "activeStep": 1871
+                },
+                {
+                    "text": "to ",
+                    "activeStep": 1874
+                },
+                {
+                    "text": "do!",
+                    "activeStep": 1876
+                }
+            ],
+            "holdSteps": 5,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Strange, ",
+                    "activeStep": 1884
+                },
+                {
+                    "text": "isn't ",
+                    "activeStep": 1893
+                },
+                {
+                    "text": "it? ",
+                    "activeStep": 1898
+                }
+            ],
+            "holdSteps": 5,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "NGYAHHHHH!!!",
+                    "activeStep": 1903,
+                    "effect": "SHAKE"
+                }
+            ],
+            "holdSteps": 16,
+            "highlightColour": "0xFF3558ff"
+        }
+    ]
+}

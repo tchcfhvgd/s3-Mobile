@@ -1,0 +1,96 @@
+{
+    "access": [
+        {
+            "subs": [
+                {
+                    "text": "Ha! ",
+                    "activeStep": 96
+                },
+                {
+                    "text": "Ha! ",
+                    "activeStep": 98
+                },
+                {
+                    "text": "Ha! ",
+                    "activeStep": 100
+                },
+                {
+                    "text": "Ha! ",
+                    "activeStep": 102
+                },
+                {
+                    "text": "Ha! ",
+                    "activeStep": 104
+                }
+            ],
+            "holdSteps": 5,
+            "highlightColour": "0xFFFF0000"
+        },
+        {
+            "subs": [
+                {
+                    "text": "You'll ",
+                    "activeStep": 109
+                },
+                {
+                    "text": "never ",
+                    "activeStep": 113
+                },
+                {
+                    "text": "defeat ",
+                    "activeStep": 117
+                },
+                {
+                    "text": "me!",
+                    "activeStep": 122
+                }
+            ],
+            "holdSteps": 8,
+            "highlightColour": "0xFFFF0000"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Heh yeah! ",
+                    "activeStep": 328
+                },
+                {
+                    "text": "Get ",
+                    "activeStep": 336
+                },
+                {
+                    "text": "into ",
+                    "activeStep": 339
+                },
+                {
+                    "text": "it ",
+                    "activeStep": 343
+                },
+                {
+                    "text": "egg",
+                    "activeStep": 345
+                },
+                {
+                    "text": "head!",
+                    "activeStep": 348
+                }
+            ],
+            "holdSteps": 5,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Ach",
+                    "activeStep": 629
+                },
+                {
+                    "text": "oo!",
+                    "activeStep": 634
+                }
+            ],
+            "holdSteps": 9,
+            "highlightColour": "0xFF3558ff"
+        }
+    ]
+}

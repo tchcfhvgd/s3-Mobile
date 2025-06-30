@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="sonicChairGameover.png" width="5181" height="4216">
+	<SubTexture name="froggy death0000" x="1610" y="1" width="1307" height="1551" frameX="-166" frameY="-495" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0001" x="1610" y="1" width="1307" height="1551" frameX="-166" frameY="-495" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0002" x="1359" y="2862" width="1307" height="1283" frameX="-116" frameY="-495" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0003" x="1359" y="2862" width="1307" height="1283" frameX="-116" frameY="-495" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0004" x="1610" y="1557" width="1407" height="1115" frameX="-139" frameY="-417" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0005" x="1610" y="1557" width="1407" height="1115" frameX="-139" frameY="-417" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0006" x="1" y="1" width="1534" height="1492" frameX="-142" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0007" x="1" y="1" width="1534" height="1492" frameX="-142" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0008" x="2922" y="1" width="1238" height="1231" frameX="-288" frameY="-291" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0009" x="2922" y="1" width="1238" height="1231" frameX="-288" frameY="-291" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0010" x="3981" y="2351" width="991" height="1433" rotated="true" frameX="-134" frameY="-433" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0011" x="3981" y="2351" width="991" height="1433" rotated="true" frameX="-134" frameY="-433" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0012" x="1" y="2862" width="1353" height="1353" frameX="-91" frameY="-175" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0013" x="1" y="2862" width="1353" height="1353" frameX="-91" frameY="-175" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0014" x="2671" y="2677" width="1305" height="1184" frameX="-107" frameY="-260" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0015" x="2671" y="2677" width="1305" height="1184" frameX="-107" frameY="-260" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0016" x="3022" y="1237" width="1292" height="1109" frameX="-102" frameY="-398" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0017" x="3022" y="1237" width="1292" height="1109" frameX="-102" frameY="-398" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0018" x="1" y="1498" width="1604" height="1359" rotated="true" frameX="-38" frameY="-513" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0019" x="1" y="1498" width="1604" height="1359" rotated="true" frameX="-38" frameY="-513" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0020" x="2671" y="3866" width="1304" height="320" frameX="-0" frameY="-850" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0021" x="2671" y="3866" width="1304" height="320" frameX="-0" frameY="-850" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0022" x="4977" y="1" width="203" height="1348" rotated="true" frameX="-19" frameY="-969" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0023" x="4977" y="1" width="203" height="1348" rotated="true" frameX="-19" frameY="-969" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0024" x="2922" y="1237" width="30" height="140" frameX="-305" frameY="-978" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0025" x="2922" y="1237" width="30" height="140" frameX="-305" frameY="-978" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0026" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0027" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0028" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0029" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0030" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0031" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0032" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0033" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0034" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0035" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0036" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0037" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0038" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0039" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0040" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0041" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0042" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0043" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0044" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0045" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0046" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0047" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0048" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0049" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0050" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0051" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0052" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0053" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0054" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0055" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0056" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0057" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0058" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0059" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0060" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0061" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0062" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0063" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+	<SubTexture name="froggy death0064" x="2922" y="1382" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1676" frameHeight="2117"/>
+</TextureAtlas>

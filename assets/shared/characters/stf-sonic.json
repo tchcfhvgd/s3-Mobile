@@ -1,0 +1,135 @@
+{
+	"_editor_isPlayer": true,
+	"animations": [
+		{
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				17,
+				-13
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down0"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				8,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up0"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-35,
+				-2
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right0"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				36,
+				4
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left0"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				19,
+				-10
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Down_M"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				4,
+				-11
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Up_M"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-26,
+				-6
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Right_M"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				38,
+				1
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Left_M"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				16,
+				50
+			],
+			"fps": 24,
+			"anim": "gameover",
+			"loop": false,
+			"name": "GameOver_Start"
+		}
+	],
+	"camera_position": [
+		25,
+		50
+	],
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		61,
+		225
+	],
+	"healthicon": "sonic",
+	"image": "characters/sonic/sonic3d,characters/sonic/sonic3d-gameover",
+	"no_antialiasing": false,
+	"position": [
+		-30,
+		320
+	],
+	"scale": 1,
+	"sing_duration": 4,
+	"vocals_file": ""
+}

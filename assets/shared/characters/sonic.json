@@ -1,0 +1,200 @@
+{
+	"_editor_isPlayer": true,
+	"animations": [
+		{
+			"indices": [],
+			"offsets": [
+				-5,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		},
+		{
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"offsets": [
+				-5,
+				0
+			],
+			"fps": 24,
+			"anim": "idle-loopable",
+			"loop": true,
+			"name": "idle"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				18,
+				-34
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				10,
+				-44
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "miss left"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-20,
+				-93
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-16,
+				-93
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "miss down"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-48,
+				6
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-45,
+				7
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "miss up"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-60,
+				-41
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-53,
+				-55
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "miss right"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-20,
+				-26
+			],
+			"fps": 24,
+			"anim": "peace",
+			"loop": false,
+			"name": "peace"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				72,
+				-50
+			],
+			"fps": 24,
+			"anim": "ta-da",
+			"loop": false,
+			"name": "ta-da"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				0,
+				50
+			],
+			"fps": 24,
+			"anim": "gameover",
+			"loop": false,
+			"name": "gameover"
+		},
+		{
+			"anim": "WIN",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "win",
+			"offsets": [
+				35,
+				357
+			]
+		}
+	],
+	"camera_position": [
+		0,
+		90
+	],
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		94,
+		255
+	],
+	"healthicon": "sonic",
+	"image": "characters/Sonic,characters/SonicGameover,characters/sonic/Sonic_win",
+	"no_antialiasing": false,
+	"position": [
+		0,
+		350
+	],
+	"scale": 1,
+	"sing_duration": 4,
+	"vocals_file": ""
+}

@@ -1,0 +1,91 @@
+{
+	"_editor_isPlayer": false,
+	"animations": [
+		{
+			"indices": [],
+			"offsets": [
+				30,
+				-10
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				70,
+				-76
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				4,
+				28
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				12,
+				-17
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				50,
+				5
+			],
+			"fps": 24,
+			"anim": "threat",
+			"loop": false,
+			"name": "threat"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-4,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		43,
+		140
+	],
+	"healthicon": "sonic-metal",
+	"image": "characters/METAL SONIC",
+	"no_antialiasing": false,
+	"position": [
+		0,
+		350
+	],
+	"scale": 1,
+	"sing_duration": 4,
+	"vocals_file": ""
+}

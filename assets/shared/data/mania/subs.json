@@ -1,0 +1,414 @@
+{
+    "access": [
+        {
+            "subs": [
+                {
+                    "text": "You ",
+                    "activeStep": 352
+                },
+                {
+                    "text": "can ",
+                    "activeStep": 354
+                },
+                {
+                    "text": "do ",
+                    "activeStep": 355
+                },
+                {
+                    "text": "whatever ",
+                    "activeStep": 356
+                },
+                {
+                    "text": "you ",
+                    "activeStep": 358
+                },
+                {
+                    "text": "want",
+                    "activeStep": 359
+                }
+            ],
+            "holdSteps": 5,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "But ",
+                    "activeStep": 361
+                },
+                {
+                    "text": "you ",
+                    "activeStep": 362
+                },
+                {
+                    "text": "better ",
+                    "activeStep": 364
+                },
+                {
+                    "text": "peep ",
+                    "activeStep": 366
+                },
+                {
+                    "text": "game!",
+                    "activeStep": 368
+                }
+            ],
+            "holdSteps": 9,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Cuz ",
+                    "activeStep": 371
+                },
+                {
+                    "text": "I'd ",
+                    "activeStep": 372
+                },
+                {
+                    "text": "never ",
+                    "activeStep": 374
+                },
+                {
+                    "text": "lose ",
+                    "activeStep": 376
+                },
+                {
+                    "text": "to ",
+                    "activeStep": 378
+                },
+                {
+                    "text": "you ",
+                    "activeStep": 380
+                },
+                {
+                    "text": "man",
+                    "activeStep": 382
+                }
+            ],
+            "holdSteps": 4,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Better ",
+                    "activeStep": 416
+                },
+                {
+                    "text": "keep ",
+                    "activeStep": 418
+                },
+                {
+                    "text": "up ",
+                    "activeStep": 420
+                },
+                {
+                    "text": "You ",
+                    "activeStep": 422
+                },
+                {
+                    "text": "can't ",
+                    "activeStep": 424
+                },
+                {
+                    "text": "keep ",
+                    "activeStep": 426
+                },
+                {
+                    "text": "up!",
+                    "activeStep": 428
+                }
+            ],
+            "holdSteps": 4,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "You ",
+                    "activeStep": 436
+                },
+                {
+                    "text": "can't ",
+                    "activeStep": 438
+                },
+                {
+                    "text": "be ",
+                    "activeStep": 440
+                },
+                {
+                    "text": "about ",
+                    "activeStep": 442
+                },
+                {
+                    "text": "that ",
+                    "activeStep": 444
+                },
+                {
+                    "text": "action",
+                    "activeStep": 446
+                }
+            ],
+            "holdSteps": 4,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Keep ",
+                    "activeStep": 450
+                },
+                {
+                    "text": "up ",
+                    "activeStep": 452
+                },
+                {
+                    "text": "that ",
+                    "activeStep": 454
+                },
+                {
+                    "text": "action ",
+                    "activeStep": 456
+                },
+                {
+                    "text": "man!",
+                    "activeStep": 460
+                }
+            ],
+            "holdSteps": 8,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Better ",
+                    "activeStep": 464
+                },
+                {
+                    "text": "keep ",
+                    "activeStep": 466
+                },
+                {
+                    "text": "up ",
+                    "activeStep": 468
+                },
+                {
+                    "text": "that ",
+                    "activeStep": 470
+                },
+                {
+                    "text": "action",
+                    "activeStep": 472
+                }
+            ],
+            "holdSteps": 8,
+            "highlightColour": "0xFF3558ff"
+        },
+                {
+            "subs": [
+                {
+                    "text": "That ",
+                    "activeStep": 476
+                },
+                {
+                    "text": "action ",
+                    "activeStep": 478
+                }
+            ],
+            "holdSteps": 8,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "I'm ",
+                    "activeStep": 482
+                },
+                {
+                    "text": "not ",
+                    "activeStep": 484
+                },
+                {
+                    "text": "too ",
+                    "activeStep": 486
+                },
+                {
+                    "text": "big ",
+                    "activeStep": 488
+                },
+                {
+                    "text": "on ",
+                    "activeStep": 490
+                },
+                {
+                    "text": "rhythm ",
+                    "activeStep": 492
+                },
+                {
+                    "text": "games",
+                    "activeStep": 494
+                }
+            ],
+            "holdSteps": 4,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "But ",
+                    "activeStep": 498
+                },
+                {
+                    "text": "I ",
+                    "activeStep": 499
+                },
+                {
+                    "text": "am ",
+                    "activeStep": 500
+                },
+                {
+                    "text": "big ",
+                    "activeStep": 502
+                },
+                {
+                    "text": "on ",
+                    "activeStep": 504
+                },
+                {
+                    "text": "keeping ",
+                    "activeStep": 506
+                },
+                {
+                    "text": "peace.",
+                    "activeStep": 508
+                }
+            ],
+            "holdSteps": 4,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "You ",
+                    "activeStep": 544
+                },
+                {
+                    "text": "better ",
+                    "activeStep": 546
+                },
+                {
+                    "text": "keep ",
+                    "activeStep": 548
+                },
+                {
+                    "text": "up ",
+                    "activeStep": 552
+                },
+                {
+                    "text": "man",
+                    "activeStep": 556
+                }
+            ],
+            "holdSteps": 4,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "You ",
+                    "activeStep": 560
+                },
+                {
+                    "text": "better ",
+                    "activeStep": 562
+                },
+                {
+                    "text": "keep ",
+                    "activeStep": 566
+                },
+                {
+                    "text": "up ",
+                    "activeStep": 568
+                },
+                {
+                    "text": "that ",
+                    "activeStep": 570
+                },
+                {
+                    "text": "action!",
+                    "activeStep": 572
+                }
+            ],
+            "holdSteps": 4,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "You ",
+                    "activeStep": 800
+                },
+                {
+                    "text": "better ",
+                    "activeStep": 802
+                },
+                {
+                    "text": "keep ",
+                    "activeStep": 804
+                },
+                {
+                    "text": "up,",
+                    "activeStep": 808
+                }
+            ],
+            "holdSteps": 4,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Cuz ",
+                    "activeStep": 810
+                },
+                {
+                    "text": "I ",
+                    "activeStep": 812
+                },
+                {
+                    "text": "am ",
+                    "activeStep": 814
+                },
+                {
+                    "text": "Sonic",
+                    "activeStep": 816
+                }
+            ],
+            "holdSteps": 4,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Sonic ",
+                    "activeStep": 823
+                },
+                {
+                    "text": "The ",
+                    "activeStep": 826
+                },
+                {
+                    "text": "HEDGE",
+                    "activeStep": 828
+                },
+                {
+                    "text": "HOG!",
+                    "activeStep": 830
+                }
+            ],
+            "holdSteps": 4,
+            "highlightColour": "0xFF3558ff"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="grounder.png" width="8174" height="5254">
+	<SubTexture name="GROUNDER DOWN0000" x="1101" y="4083" width="1142" height="1092" frameX="-0" frameY="-56" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0001" x="1101" y="4083" width="1142" height="1092" frameX="-0" frameY="-56" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0002" x="2248" y="4090" width="1133" height="1105" rotated="true" frameX="-20" frameY="-9" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0003" x="2248" y="4090" width="1133" height="1105" rotated="true" frameX="-20" frameY="-9" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0004" x="3386" y="4133" width="1128" height="1105" rotated="true" frameX="-20" frameY="-14" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0005" x="3386" y="4133" width="1128" height="1105" rotated="true" frameX="-20" frameY="-14" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0006" x="4519" y="4133" width="1105" height="1120" frameX="-20" frameY="-22" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0007" x="4519" y="4133" width="1105" height="1120" frameX="-20" frameY="-22" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0008" x="4519" y="4133" width="1105" height="1120" frameX="-20" frameY="-22" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0009" x="4519" y="4133" width="1105" height="1120" frameX="-20" frameY="-22" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0010" x="4519" y="4133" width="1105" height="1120" frameX="-20" frameY="-22" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0011" x="4519" y="4133" width="1105" height="1120" frameX="-20" frameY="-22" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0012" x="4519" y="4133" width="1105" height="1120" frameX="-20" frameY="-22" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER DOWN0013" x="4519" y="4133" width="1105" height="1120" frameX="-20" frameY="-22" frameWidth="1142" frameHeight="1148"/>
+	<SubTexture name="GROUNDER IDLE0000" x="1" y="1" width="1102" height="929" frameX="-0" frameY="-134" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0001" x="1" y="1" width="1102" height="929" frameX="-0" frameY="-134" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0002" x="1108" y="1" width="1088" height="941" frameX="-14" frameY="-122" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0003" x="1108" y="1" width="1088" height="941" frameX="-14" frameY="-122" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0004" x="2356" y="949" width="1058" height="1005" frameX="-50" frameY="-58" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0005" x="2356" y="949" width="1058" height="1005" frameX="-50" frameY="-58" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0006" x="5559" y="1991" width="1070" height="1057" frameX="-50" frameY="-6" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0007" x="5559" y="1991" width="1070" height="1057" frameX="-50" frameY="-6" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0008" x="1" y="2971" width="1069" height="1059" frameX="-50" frameY="-4" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0009" x="1" y="2971" width="1069" height="1059" frameX="-50" frameY="-4" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0010" x="1" y="2971" width="1069" height="1059" frameX="-50" frameY="-4" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0011" x="1" y="2971" width="1069" height="1059" frameX="-50" frameY="-4" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0012" x="1" y="2971" width="1069" height="1059" frameX="-50" frameY="-4" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER IDLE0013" x="1" y="2971" width="1069" height="1059" frameX="-50" frameY="-4" frameWidth="1122" frameHeight="1063"/>
+	<SubTexture name="GROUNDER LEFT0000" x="4473" y="3053" width="1153" height="1075" rotated="true" frameX="-0" frameY="-10" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0001" x="4473" y="3053" width="1153" height="1075" rotated="true" frameX="-0" frameY="-10" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0002" x="1" y="1931" width="1072" height="1035" rotated="true" frameX="-160" frameY="-103" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0003" x="1" y="1931" width="1072" height="1035" rotated="true" frameX="-160" frameY="-103" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0004" x="1078" y="1955" width="1105" height="1035" rotated="true" frameX="-160" frameY="-70" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0005" x="1078" y="1955" width="1105" height="1035" rotated="true" frameX="-160" frameY="-70" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0006" x="2188" y="1959" width="1144" height="1035" rotated="true" frameX="-160" frameY="-31" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0007" x="2188" y="1959" width="1144" height="1035" rotated="true" frameX="-160" frameY="-31" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0008" x="3337" y="1966" width="1131" height="1035" rotated="true" frameX="-160" frameY="-44" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0009" x="3337" y="1966" width="1131" height="1035" rotated="true" frameX="-160" frameY="-44" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0010" x="3337" y="1966" width="1131" height="1035" rotated="true" frameX="-160" frameY="-44" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0011" x="3337" y="1966" width="1131" height="1035" rotated="true" frameX="-160" frameY="-44" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0012" x="3337" y="1966" width="1131" height="1035" rotated="true" frameX="-160" frameY="-44" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER LEFT0013" x="3337" y="1966" width="1131" height="1035" rotated="true" frameX="-160" frameY="-44" frameWidth="1195" frameHeight="1175"/>
+	<SubTexture name="GROUNDER RIGHT0000" x="3415" y="1" width="1399" height="943" frameX="-0" frameY="-116" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0001" x="3415" y="1" width="1399" height="943" frameX="-0" frameY="-116" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0002" x="6634" y="2117" width="1204" height="1052" frameX="-37" frameY="-4" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0003" x="6634" y="2117" width="1204" height="1052" frameX="-37" frameY="-4" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0004" x="6744" y="1086" width="1204" height="1026" frameX="-37" frameY="-30" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0005" x="6744" y="1086" width="1204" height="1026" frameX="-37" frameY="-30" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0006" x="5987" y="1" width="1204" height="961" frameX="-37" frameY="-95" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0007" x="5987" y="1" width="1204" height="961" frameX="-37" frameY="-95" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0008" x="1" y="947" width="1204" height="979" frameX="-37" frameY="-77" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0009" x="1" y="947" width="1204" height="979" frameX="-37" frameY="-77" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0010" x="1" y="947" width="1204" height="979" frameX="-37" frameY="-77" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0011" x="1" y="947" width="1204" height="979" frameX="-37" frameY="-77" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0012" x="1" y="947" width="1204" height="979" frameX="-37" frameY="-77" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER RIGHT0013" x="1" y="947" width="1204" height="979" frameX="-37" frameY="-77" frameWidth="1399" frameHeight="1059"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0000" x="3419" y="949" width="1146" height="1012" frameX="-0" frameY="-48" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0001" x="3419" y="949" width="1146" height="1012" frameX="-0" frameY="-48" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0002" x="1075" y="2999" width="1121" height="1057" frameX="-7" frameY="-4" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0003" x="1075" y="2999" width="1121" height="1057" frameX="-7" frameY="-4" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0004" x="1075" y="2999" width="1121" height="1057" frameX="-7" frameY="-4" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0005" x="1075" y="2999" width="1121" height="1057" frameX="-7" frameY="-4" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0006" x="1075" y="2999" width="1121" height="1057" frameX="-7" frameY="-4" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0007" x="1075" y="2999" width="1121" height="1057" frameX="-7" frameY="-4" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0008" x="1075" y="2999" width="1121" height="1057" frameX="-7" frameY="-4" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0009" x="1075" y="2999" width="1121" height="1057" frameX="-7" frameY="-4" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0010" x="1075" y="2999" width="1121" height="1057" frameX="-7" frameY="-4" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0011" x="1075" y="2999" width="1121" height="1057" frameX="-7" frameY="-4" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0012" x="1075" y="2999" width="1121" height="1057" frameX="-7" frameY="-4" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT DOWN0013" x="1075" y="2999" width="1121" height="1057" frameX="-7" frameY="-4" frameWidth="1146" frameHeight="1061"/>
+	<SubTexture name="GROUNDER SQUAT IDLE0000" x="4570" y="964" width="1106" height="1016" frameX="-0" frameY="-0" frameWidth="1117" frameHeight="1016"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0000" x="1" y="4061" width="1095" height="1082" frameX="-68" frameY="-10" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0001" x="1" y="4061" width="1095" height="1082" frameX="-68" frameY="-10" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0002" x="4473" y="1985" width="1081" height="1044" frameX="-82" frameY="-48" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0003" x="4473" y="1985" width="1081" height="1044" frameX="-82" frameY="-48" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0004" x="4473" y="1985" width="1081" height="1044" frameX="-82" frameY="-48" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0005" x="4473" y="1985" width="1081" height="1044" frameX="-82" frameY="-48" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0006" x="4473" y="1985" width="1081" height="1044" frameX="-82" frameY="-48" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0007" x="4473" y="1985" width="1081" height="1044" frameX="-82" frameY="-48" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0008" x="4473" y="1985" width="1081" height="1044" frameX="-82" frameY="-48" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0009" x="4473" y="1985" width="1081" height="1044" frameX="-82" frameY="-48" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0010" x="4473" y="1985" width="1081" height="1044" frameX="-82" frameY="-48" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0011" x="4473" y="1985" width="1081" height="1044" frameX="-82" frameY="-48" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0012" x="4473" y="1985" width="1081" height="1044" frameX="-82" frameY="-48" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT LEFT0013" x="4473" y="1985" width="1081" height="1044" frameX="-82" frameY="-48" frameWidth="1224" frameHeight="1092"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0000" x="4819" y="1" width="1163" height="958" frameX="-44" frameY="-85" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0001" x="4819" y="1" width="1163" height="958" frameX="-44" frameY="-85" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0002" x="1210" y="947" width="1141" height="1003" frameX="-43" frameY="-40" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0003" x="1210" y="947" width="1141" height="1003" frameX="-43" frameY="-40" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0004" x="1210" y="947" width="1141" height="1003" frameX="-43" frameY="-40" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0005" x="1210" y="947" width="1141" height="1003" frameX="-43" frameY="-40" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0006" x="1210" y="947" width="1141" height="1003" frameX="-43" frameY="-40" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0007" x="1210" y="947" width="1141" height="1003" frameX="-43" frameY="-40" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0008" x="1210" y="947" width="1141" height="1003" frameX="-43" frameY="-40" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0009" x="1210" y="947" width="1141" height="1003" frameX="-43" frameY="-40" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0010" x="1210" y="947" width="1141" height="1003" frameX="-43" frameY="-40" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0011" x="1210" y="947" width="1141" height="1003" frameX="-43" frameY="-40" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0012" x="1210" y="947" width="1141" height="1003" frameX="-43" frameY="-40" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT RIGHT0013" x="1210" y="947" width="1141" height="1003" frameX="-43" frameY="-40" frameWidth="1315" frameHeight="1043"/>
+	<SubTexture name="GROUNDER SQUAT UP0000" x="5681" y="967" width="1058" height="1019" frameX="-11" frameY="-59" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0001" x="5681" y="967" width="1058" height="1019" frameX="-11" frameY="-59" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0002" x="7196" y="1" width="977" height="1080" rotated="true" frameX="-0" frameY="-101" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0003" x="7196" y="1" width="977" height="1080" rotated="true" frameX="-0" frameY="-101" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0004" x="7196" y="1" width="977" height="1080" rotated="true" frameX="-0" frameY="-101" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0005" x="7196" y="1" width="977" height="1080" rotated="true" frameX="-0" frameY="-101" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0006" x="7196" y="1" width="977" height="1080" rotated="true" frameX="-0" frameY="-101" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0007" x="7196" y="1" width="977" height="1080" rotated="true" frameX="-0" frameY="-101" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0008" x="7196" y="1" width="977" height="1080" rotated="true" frameX="-0" frameY="-101" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0009" x="7196" y="1" width="977" height="1080" rotated="true" frameX="-0" frameY="-101" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0010" x="7196" y="1" width="977" height="1080" rotated="true" frameX="-0" frameY="-101" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0011" x="7196" y="1" width="977" height="1080" rotated="true" frameX="-0" frameY="-101" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0012" x="7196" y="1" width="977" height="1080" rotated="true" frameX="-0" frameY="-101" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER SQUAT UP0013" x="7196" y="1" width="977" height="1080" rotated="true" frameX="-0" frameY="-101" frameWidth="1091" frameHeight="1078"/>
+	<SubTexture name="GROUNDER UP0000" x="2201" y="1" width="1209" height="941" rotated="true" frameX="-3" frameY="-56" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0001" x="2201" y="1" width="1209" height="941" rotated="true" frameX="-3" frameY="-56" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0002" x="5631" y="3174" width="1257" height="1079" rotated="true" frameX="-0" frameY="-11" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0003" x="5631" y="3174" width="1257" height="1079" rotated="true" frameX="-0" frameY="-11" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0004" x="6893" y="3174" width="1175" height="1079" rotated="true" frameX="-0" frameY="-93" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0005" x="6893" y="3174" width="1175" height="1079" rotated="true" frameX="-0" frameY="-93" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0006" x="2201" y="2999" width="1116" height="1079" rotated="true" frameX="-0" frameY="-152" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0007" x="2201" y="2999" width="1116" height="1079" rotated="true" frameX="-0" frameY="-152" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0008" x="3322" y="3006" width="1146" height="1079" rotated="true" frameX="-0" frameY="-122" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0009" x="3322" y="3006" width="1146" height="1079" rotated="true" frameX="-0" frameY="-122" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0010" x="3322" y="3006" width="1146" height="1079" rotated="true" frameX="-0" frameY="-122" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0011" x="3322" y="3006" width="1146" height="1079" rotated="true" frameX="-0" frameY="-122" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0012" x="3322" y="3006" width="1146" height="1079" rotated="true" frameX="-0" frameY="-122" frameWidth="1079" frameHeight="1268"/>
+	<SubTexture name="GROUNDER UP0013" x="3322" y="3006" width="1146" height="1079" rotated="true" frameX="-0" frameY="-122" frameWidth="1079" frameHeight="1268"/>
+</TextureAtlas>

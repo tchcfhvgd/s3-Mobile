@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="assets.png" width="2925" height="2617">
+	<SubTexture name="boardwalk0000" x="2526" y="1" width="398" height="1602" rotated="true" frameX="-0" frameY="-129" frameWidth="1602" frameHeight="527"/>
+	<SubTexture name="boardwalk0001" x="1" y="1" width="1762" height="291" frameX="-0" frameY="-129" frameWidth="1762" frameHeight="527"/>
+	<SubTexture name="surfcasterBg0000" x="1" y="1507" width="1633" height="1109" frameX="-0" frameY="-0" frameWidth="1633" frameHeight="1109"/>
+	<SubTexture name="surfcasterMg0000" x="1768" y="1" width="753" height="1615" rotated="true" frameX="-0" frameY="-0" frameWidth="1615" frameHeight="753"/>
+	<SubTexture name="surfcasterSky0000" x="1" y="297" width="1761" height="1205" frameX="-50" frameY="-53" frameWidth="2284" frameHeight="1656"/>
+</TextureAtlas>

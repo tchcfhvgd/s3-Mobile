@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				21,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-38,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-17,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-38,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-54,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "shock",
+			"indices": [],
+			"name": "shock"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-2
+			],
+			"anim": "buddy",
+			"fps": 24,
+			"name": "buddy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-2
+			],
+			"anim": "more",
+			"fps": 24,
+			"name": "more",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-2
+			],
+			"anim": "bad",
+			"fps": 24,
+			"name": "bad",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-54,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "froggy",
+			"loop": true,
+			"name": "fwoggy"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/big, characters/bigAnims",
+	"position": [
+		-170,
+		190
+	],
+	"healthicon": "big",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

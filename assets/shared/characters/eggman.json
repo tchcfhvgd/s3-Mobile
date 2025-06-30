@@ -1,0 +1,157 @@
+{
+	"_editor_isPlayer": false,
+	"animations": [
+		{
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				162,
+				133
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left0"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				127,
+				82
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up0"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				37,
+				-31
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down0"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-103,
+				-64
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right0"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				28,
+				-40
+			],
+			"fps": 24,
+			"anim": "angry",
+			"loop": false,
+			"name": "anger"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				143,
+				110
+			],
+			"fps": 24,
+			"anim": "singUP-angry",
+			"loop": false,
+			"name": "angry up"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				217,
+				169
+			],
+			"fps": 24,
+			"anim": "singLEFT-angry",
+			"loop": false,
+			"name": "angry left"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				37,
+				-9
+			],
+			"fps": 24,
+			"anim": "singDOWN-angry",
+			"loop": false,
+			"name": "angry down"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-88,
+				-67
+			],
+			"fps": 24,
+			"anim": "singRIGHT-angry",
+			"loop": false,
+			"name": "angry right"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				47,
+				250
+			],
+			"fps": 24,
+			"anim": "point",
+			"loop": false,
+			"name": "point"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				0,
+				12
+			],
+			"fps": 24,
+			"anim": "idle-angry",
+			"loop": true,
+			"name": "angry idle"
+		}
+	],
+	"camera_position": [
+		0,
+		-30
+	],
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		20,
+		38
+	],
+	"healthicon": "eggman",
+	"image": "characters/Eggman",
+	"no_antialiasing": false,
+	"position": [
+		-200,
+		-60
+	],
+	"scale": 1,
+	"sing_duration": 6.1,
+	"vocals_file": ""
+}

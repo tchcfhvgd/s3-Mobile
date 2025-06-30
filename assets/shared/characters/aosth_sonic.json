@@ -1,0 +1,168 @@
+{
+	"_editor_isPlayer": true,
+	"animations": [
+		{
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "AOSTH SONIC IDLE"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				200,
+				-65
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "AOSTH SONIC LEFT"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				136,
+				-108
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "AOSTH SONIC DOWN"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				58,
+				37
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "AOSTH SONIC UP"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				55,
+				-19
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "AOSTH SONIC RIGHT"
+		},
+		{
+			"anim": "juice",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "AOSTH SONIC JUICE",
+			"offsets": [
+				54,
+				67
+			]
+		},
+		{
+			"anim": "waiting",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "AOSTH SONIC WAITING",
+			"offsets": [
+				-195,
+				-54
+			]
+		},
+		{
+			"anim": "bolt",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "AOSTH SONIC BOLTS",
+			"offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"anim": "gameover",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "AOSTH SONIC GAME OVER",
+			"offsets": [
+				66,
+				32
+			]
+		},
+		{
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "AOSTH SONIC MISS LEFT",
+			"offsets": [
+				221,
+				-49
+			]
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "AOSTH SONIC MISS RIGHT",
+			"offsets": [
+				-14,
+				44
+			]
+		},
+		{
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "AOSTH SONIC MISS DOWN",
+			"offsets": [
+				84,
+				2
+			]
+		},
+		{
+			"anim": "singUPmiss",
+			"fps": 24,
+			"indices": [],
+			"loop": false,
+			"name": "AOSTH SONIC MISS UP",
+			"offsets": [
+				47,
+				25
+			]
+		}
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		126,
+		255
+	],
+	"healthicon": "aosth",
+	"image": "characters/aosth,characters/aosth2",
+	"no_antialiasing": false,
+	"position": [
+		700,
+		740
+	],
+	"scale": 1,
+	"sing_duration": 4,
+	"vocals_file": ""
+}

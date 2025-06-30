@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="sonic3d-gameover.png" width="1584" height="1468">
+	<SubTexture name="GameOver_Start0000" x="1" y="1" width="310" height="472" frameX="-76" frameY="-40" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0001" x="1" y="1" width="310" height="472" frameX="-76" frameY="-40" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0002" x="316" y="1" width="309" height="472" frameX="-74" frameY="-40" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0003" x="316" y="1" width="309" height="472" frameX="-74" frameY="-40" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0004" x="1" y="478" width="471" height="307" rotated="true" frameX="-74" frameY="-41" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0005" x="1" y="478" width="471" height="307" rotated="true" frameX="-74" frameY="-41" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0006" x="630" y="1" width="256" height="426" rotated="true" frameX="-122" frameY="-175" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0007" x="630" y="1" width="256" height="426" rotated="true" frameX="-122" frameY="-175" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0008" x="881" y="432" width="250" height="416" rotated="true" frameX="-134" frameY="-200" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0009" x="881" y="432" width="250" height="416" rotated="true" frameX="-134" frameY="-200" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0010" x="630" y="432" width="246" height="426" rotated="true" frameX="-123" frameY="-240" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0011" x="630" y="432" width="246" height="426" rotated="true" frameX="-123" frameY="-240" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0012" x="1331" y="806" width="215" height="377" rotated="true" frameX="-145" frameY="-306" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0013" x="1331" y="806" width="215" height="377" rotated="true" frameX="-145" frameY="-306" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0014" x="1325" y="1" width="210" height="397" rotated="true" frameX="-139" frameY="-315" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0015" x="1325" y="1" width="210" height="397" rotated="true" frameX="-139" frameY="-315" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0016" x="891" y="1" width="212" height="418" rotated="true" frameX="-132" frameY="-317" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0017" x="891" y="1" width="212" height="418" rotated="true" frameX="-132" frameY="-317" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0018" x="1" y="790" width="413" height="211" frameX="-133" frameY="-316" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0019" x="1" y="790" width="413" height="211" frameX="-133" frameY="-316" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0020" x="1108" y="1" width="212" height="404" rotated="true" frameX="-133" frameY="-314" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0021" x="1108" y="1" width="212" height="404" rotated="true" frameX="-133" frameY="-314" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0022" x="1108" y="853" width="218" height="395" rotated="true" frameX="-133" frameY="-312" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0023" x="1108" y="853" width="218" height="395" rotated="true" frameX="-133" frameY="-312" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0024" x="419" y="863" width="391" height="222" frameX="-133" frameY="-310" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0025" x="419" y="863" width="391" height="222" frameX="-133" frameY="-310" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0026" x="881" y="853" width="222" height="392" rotated="true" frameX="-134" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0027" x="881" y="853" width="222" height="392" rotated="true" frameX="-134" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0028" x="1136" y="410" width="218" height="391" rotated="true" frameX="-137" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0029" x="1136" y="410" width="218" height="391" rotated="true" frameX="-137" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0030" x="1191" y="1253" width="392" height="214" frameX="-139" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0031" x="1191" y="1253" width="392" height="214" frameX="-139" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0032" x="1" y="1232" width="392" height="215" frameX="-140" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Start0033" x="1" y="1232" width="392" height="215" frameX="-140" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0000" x="794" y="1253" width="392" height="214" frameX="-139" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0001" x="794" y="1253" width="392" height="214" frameX="-139" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0002" x="398" y="1090" width="391" height="217" frameX="-137" frameY="-310" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0003" x="398" y="1090" width="391" height="217" frameX="-137" frameY="-310" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0004" x="1" y="1006" width="392" height="221" frameX="-134" frameY="-310" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0005" x="1" y="1006" width="392" height="221" frameX="-134" frameY="-310" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0006" x="419" y="863" width="391" height="222" frameX="-133" frameY="-310" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0007" x="419" y="863" width="391" height="222" frameX="-133" frameY="-310" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0008" x="1" y="1006" width="392" height="221" frameX="-134" frameY="-310" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0009" x="1" y="1006" width="392" height="221" frameX="-134" frameY="-310" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0010" x="398" y="1090" width="391" height="217" frameX="-137" frameY="-310" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0011" x="398" y="1090" width="391" height="217" frameX="-137" frameY="-310" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0012" x="794" y="1253" width="392" height="214" frameX="-139" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0013" x="794" y="1253" width="392" height="214" frameX="-139" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0014" x="1" y="1232" width="392" height="215" frameX="-140" frameY="-309" frameWidth="550" frameHeight="550"/>
+	<SubTexture name="GameOver_Loop0015" x="1" y="1232" width="392" height="215" frameX="-140" frameY="-309" frameWidth="550" frameHeight="550"/>
+</TextureAtlas>

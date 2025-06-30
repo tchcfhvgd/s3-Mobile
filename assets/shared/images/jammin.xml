@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="jammin.png" width="1497" height="57">
+	<SubTexture name="jammin0000" x="1" y="1" width="370" height="55" frameX="-0" frameY="-0" frameWidth="370" frameHeight="55"/>
+	<SubTexture name="jammin0001" x="376" y="1" width="370" height="55" frameX="-0" frameY="-0" frameWidth="370" frameHeight="55"/>
+	<SubTexture name="jammin0002" x="376" y="1" width="370" height="55" frameX="-0" frameY="-0" frameWidth="370" frameHeight="55"/>
+	<SubTexture name="jammin0003" x="751" y="1" width="370" height="55" frameX="-0" frameY="-0" frameWidth="370" frameHeight="55"/>
+	<SubTexture name="jammin0004" x="751" y="1" width="370" height="55" frameX="-0" frameY="-0" frameWidth="370" frameHeight="55"/>
+	<SubTexture name="jammin0005" x="751" y="1" width="370" height="55" frameX="-0" frameY="-0" frameWidth="370" frameHeight="55"/>
+	<SubTexture name="jammin0006" x="1126" y="1" width="370" height="55" frameX="-0" frameY="-0" frameWidth="370" frameHeight="55"/>
+	<SubTexture name="jammin0007" x="1126" y="1" width="370" height="55" frameX="-0" frameY="-0" frameWidth="370" frameHeight="55"/>
+</TextureAtlas>

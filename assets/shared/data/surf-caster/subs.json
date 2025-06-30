@@ -1,0 +1,130 @@
+{
+    "access": [
+        {
+            "subs": [
+                {
+                    "text": "Okay!",
+                    "activeStep": 246
+                }
+            ],
+            "holdSteps": 5,
+            "highlightColour": "0xFF7F00FF"
+        },
+        {
+            "subs": [
+                {
+                    "text": "One ",
+                    "activeStep": 254
+                },
+                {
+                    "text": "more ",
+                    "activeStep": 257
+                },
+                {
+                    "text": "time!",
+                    "activeStep": 258
+                }
+            ],
+            "holdSteps": 9,
+            "highlightColour": "0xFF7F00FF"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Looking ",
+                    "activeStep": 374
+                },
+                {
+                    "text": "good, ",
+                    "activeStep": 378
+                },
+                {
+                    "text": "buddy",
+                    "activeStep": 383
+                }
+            ],
+            "holdSteps": 9,
+            "highlightColour": "0xFF7F00FF"
+        },
+        {
+            "subs": [
+                {
+                    "text": "O-K!",
+                    "activeStep": 446
+                }
+            ],
+            "holdSteps": 9,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Not ",
+                    "activeStep": 558
+                },
+                {
+                    "text": "too ",
+                    "activeStep": 562
+                },
+                {
+                    "text": "bad.",
+                    "activeStep": 564
+                }
+            ],
+            "holdSteps": 9,
+            "highlightColour": "0xFF7F00FF"
+        },
+        {
+            "subs": [
+                {
+                    "text": "Haha ",
+                    "activeStep": 664
+                },
+                {
+                    "text": "alright, ",
+                    "activeStep": 666
+                },
+                {
+                    "text": "I ",
+                    "activeStep": 672
+                },
+                {
+                    "text": "caught ",
+                    "activeStep": 674
+                },
+                {
+                    "text": "a ",
+                    "activeStep": 676
+                },
+                {
+                    "text": "fish!",
+                    "activeStep": 678
+                }
+            ],
+            "holdSteps": 9,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "DWOAH!!",
+                    "activeStep": 711,
+                    "effect": "SHAKE"
+                }
+            ],
+            "holdSteps": 9,
+            "highlightColour": "0xFF3558ff"
+        },
+        {
+            "subs": [
+                {
+                    "text": "AHHHH!!",
+                    "activeStep": 716,
+                    "effect": "SHAKE"
+                }
+            ],
+            "holdSteps": 8,
+            "highlightColour": "0xFF3558ff"
+        }
+    ]
+}

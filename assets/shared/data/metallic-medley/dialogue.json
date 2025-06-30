@@ -1,0 +1,285 @@
+{
+	"soundPath": "metallic",
+	"dialogue": [
+		{
+			"sound": "metallic/line 1 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "DoooOOOOAHHHH!!!"
+		},
+		{
+			"sound": "metallic/line 2 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "Proud",
+			"text": "(laughing) Did you see how red your face got, dude?"
+		},
+		{
+			"sound": "metallic/line 3 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "If your temperature got any higher, I’d probably have to serve you with a side of rice!"
+		},
+		{
+			"sound": "metallic/line 4 amy",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "(laughing) Ya know, I feel a bit better now."
+		},
+		{
+			"sound": "metallic/line 5 amy",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "sideeye",
+			"text": "I’d still like to know what’s going on though."
+		},
+		{
+			"sound": "metallic/line 6 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Despite the fact you don’t deserve the information, I suppose I shall divulge it to you regardless."
+		},
+		{
+			"sound": "metallic/line 7 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "You see my little pin-cushions, I have grown bored of fighting you pests hand to hand."
+		},
+		{
+			"sound": "metallic/line 8 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "There are more forms of combat that don’t involve getting physical, y’know?"
+		},
+		{
+			"sound": "metallic/line 9 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "Therefore, I’ve transported us to a world of a different format, where singing is a moral obligation and losing means certain death!"
+		},	
+		{
+			"sound": "metallic/line 10 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "You know, I’m surprised you didn’t come to this conclusion sooner."
+		},	
+		{
+			"sound": "metallic/line 11 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "grimace",
+			"text": "I mean, did you even wonder why you were holding a microphone?"
+		},	
+		{
+			"sound": "metallic/line 12 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "dopey",
+			"text": "...No not really."
+		},
+		{
+			"sound": "metallic/line 13 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "pout",
+			"text": "...oh! Well I er um...what about the arrows, did you not notice those?"
+		},
+		{
+			"sound": "metallic/line 14 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "dopey",
+			"text": "Yeah, I mean I guess but I thought I was just trippin’ or somethin' ion know."
+		},
+		{
+			"sound": "metallic/line 15 amy",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait, what are you guys talking about?"
+		},
+		{
+			"sound": "metallic/line 16 amy",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What arrows?"
+		},
+		{
+			"sound": "metallic/line 17 amy",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Sonic’s holding a mic??"
+		},
+		{
+			"sound": "metallic/line 18 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "It’s sad because if I really wanted to, I could just stop playing around and beat you senseless."
+		},
+		{
+			"sound": "metallic/line 19 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "Proud",
+			"text": "But I like a challenge."
+		},
+		{
+			"sound": "metallic/line 20 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "Proud",
+			"text": "I’ll take any opportunity to outclass you!"
+		},
+		{
+			"sound": "metallic/line 21 amy",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "(interrupting) Hellooo??"
+		},	
+		{
+			"sound": "metallic/line 22 amy",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "sideeye",
+			"text": "WHAT ARROWS AND WHAT MIC??"
+		},	
+		{
+			"sound": "metallic/line 23 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "dopey",
+			"text": "Regardless, I really expected that to be, oh I don’t know, challenging?"
+		},	
+		{
+			"sound": "metallic/line 24 sonic and amy",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "I’d like to get back to what I was doing now, if you’d be so kind."
+		},
+		{
+			"sound": "metallic/line 25 amy",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "pout",
+			"text": "Whatever!"
+		},
+		{
+			"sound": "metallic/line 26 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "plot",
+			"text": "Oh, my dear Sonic..."
+		},
+		{
+			"sound": "metallic/line 27 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "I may be out of rhymes, but I’m NOT out of options!"
+		},
+		{
+			"sound": "metallic/line 28 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "Introducing, HYPER METAL SONIC Mk. II!!"
+		},
+		{
+			"sound": "metallic/line 29 amy",
+			"speed": 0.05,
+			"portrait": "amy",
+			"boxState": "normal",
+			"expression": "eek",
+			"text": "(gasp) EEK!! You better not try and snatch me this time! I’m way stronger than before, you don’t wanna mess with me!!"
+		},
+		{
+			"sound": "metallic/line 30 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Don’t even stress, Ames."
+		},
+		{
+			"sound": "metallic/line 31 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "This phoney might think he can contest with the best, but I’ve got a lot more where that came from."
+		},
+		{
+			"sound": "metallic/line 32 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "argue",
+			"text": "PEEP GAME, EGGMAN!"
+		},
+		{
+			"sound": "metallic/line 33 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "argue",
+			"text": "YOU can make as many synthetic versions of me as you want...but if they can’t keep up, they ain’t makin’ the cut!"
+		},	
+		{
+			"sound": "metallic/line 34 sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "argue",
+			"text": "He better be about that ACTION."
+		},	
+		{
+			"sound": "metallic/line 35 eggman",
+			"speed": 0.05,
+			"portrait": "eggman",
+			"boxState": "normal",
+			"expression": "plot",
+			"text": "Hohohohoho! On the contrary, Sonic...the purpose of his existence is to CREATE the action!"
+		}	
+	]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="space.png" width="2402" height="220">
+	<SubTexture name="space0000" x="1" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0001" x="1" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0002" x="482" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0003" x="482" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0004" x="963" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0005" x="963" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0006" x="1444" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0007" x="1444" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0008" x="1925" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0009" x="1925" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0010" x="1925" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0011" x="1925" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0012" x="1925" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+	<SubTexture name="space0013" x="1925" y="1" width="476" height="218" frameX="-0" frameY="-0" frameWidth="477" frameHeight="218"/>
+</TextureAtlas>

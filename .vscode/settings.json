@@ -1,0 +1,36 @@
+{
+  "files.associations": {
+    "*.hxp": "haxe",
+    "*.hscript": "haxe",
+    "*.haxe": "haxe",
+    "*.hxs": "haxe",
+    "*.hxc": "haxe",
+    ".hxpkg": "json"
+  },
+  "lime.targetConfigurations": [
+    {
+      "label": "Windows / Debug (ASSET REDIRECT)",
+      "target": "windows",
+      "args": [
+        "-debug",
+        "-DASSET_REDIRECT"
+      ]
+    },    {
+      "label": "HL / Debug (ASSET REDIRECT)",
+      "target": "hl",
+      "args": [
+        "-debug",
+        "-DASSET_REDIRECT"
+      ]
+    },
+
+  ],
+  "[haxe]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnPaste": false,
+    "editor.codeActionsOnSave": {
+      "source.sortImports": "never"
+    }
+  }
+}

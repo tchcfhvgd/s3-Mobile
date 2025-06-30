@@ -1,0 +1,135 @@
+{
+	"_editor_isPlayer": false,
+	"animations": [
+		{
+			"indices": [],
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				38,
+				8
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				-4,
+				-40
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				16,
+				29
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				9,
+				-6
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				4,
+				-41
+			],
+			"fps": 24,
+			"anim": "lets",
+			"loop": false,
+			"name": "lets"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				30,
+				44
+			],
+			"fps": 24,
+			"anim": "go",
+			"loop": false,
+			"name": "go"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				24,
+				12
+			],
+			"fps": 24,
+			"anim": "haha",
+			"loop": false,
+			"name": "haha"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				54,
+				-13
+			],
+			"fps": 24,
+			"anim": "mokey",
+			"loop": false,
+			"name": "mokey"
+		},
+		{
+			"indices": [],
+			"offsets": [
+				18,
+				8
+			],
+			"fps": 24,
+			"anim": "ngyah",
+			"loop": false,
+			"name": "ngyah"
+		}
+	],
+	"camera_position": [
+		-60,
+		49
+	],
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		168,
+		0
+	],
+	"healthicon": "aiai",
+	"image": "characters/AIAI",
+	"no_antialiasing": false,
+	"position": [
+		70,
+		390
+	],
+	"scale": 1,
+	"sing_duration": 6.1,
+	"vocals_file": ""
+}

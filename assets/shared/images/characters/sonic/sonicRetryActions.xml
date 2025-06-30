@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="sonicRetryActions.png" width="7875" height="2829">
+	<SubTexture name="SONIC RETRY CONFIRM0000" x="1" y="1214" width="1652" height="657" frameX="-0" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0001" x="1647" y="572" width="1039" height="637" frameX="-283" frameY="-0" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0002" x="1" y="552" width="914" height="627" frameX="-408" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0003" x="4156" y="1" width="415" height="568" frameX="-412" frameY="-0" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0004" x="1247" y="1" width="426" height="558" frameX="-408" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0005" x="4156" y="1" width="415" height="568" frameX="-412" frameY="-0" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0006" x="1247" y="1" width="426" height="558" frameX="-408" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0007" x="4156" y="1" width="415" height="568" frameX="-412" frameY="-0" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0008" x="1247" y="1" width="426" height="558" frameX="-408" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0009" x="4156" y="1" width="415" height="568" frameX="-412" frameY="-0" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0010" x="1247" y="1" width="426" height="558" frameX="-408" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0011" x="4156" y="1" width="415" height="568" frameX="-412" frameY="-0" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0012" x="1247" y="1" width="426" height="558" frameX="-408" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0013" x="4156" y="1" width="415" height="568" frameX="-412" frameY="-0" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0014" x="1247" y="1" width="426" height="558" frameX="-408" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0015" x="4156" y="1" width="415" height="568" frameX="-412" frameY="-0" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0016" x="1247" y="1" width="426" height="558" frameX="-408" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0017" x="4156" y="1" width="415" height="568" frameX="-412" frameY="-0" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0018" x="1247" y="1" width="426" height="558" frameX="-408" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0019" x="4156" y="1" width="415" height="568" frameX="-412" frameY="-0" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0020" x="1247" y="1" width="426" height="558" frameX="-408" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0021" x="4156" y="1" width="415" height="568" frameX="-412" frameY="-0" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0022" x="1247" y="1" width="426" height="558" frameX="-408" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0023" x="4156" y="1" width="415" height="568" frameX="-412" frameY="-0" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY CONFIRM0024" x="1247" y="1" width="426" height="558" frameX="-408" frameY="-10" frameWidth="1652" frameHeight="667"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0000" x="3460" y="574" width="792" height="643" frameX="-172" frameY="-199" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0001" x="3460" y="574" width="792" height="643" frameX="-172" frameY="-199" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0002" x="5132" y="576" width="819" height="658" frameX="-172" frameY="-184" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0003" x="5132" y="576" width="819" height="658" frameX="-172" frameY="-184" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0004" x="4582" y="1985" width="965" height="843" frameX="-83" frameY="-0" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0005" x="640" y="1876" width="782" height="764" frameX="-0" frameY="-66" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0006" x="2049" y="1942" width="782" height="770" frameX="-0" frameY="-60" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0007" x="2836" y="1967" width="634" height="779" frameX="-112" frameY="-69" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0008" x="6459" y="1300" width="665" height="759" frameX="-112" frameY="-89" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0009" x="7129" y="1300" width="660" height="759" frameX="-112" frameY="-89" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0010" x="4332" y="1236" width="643" height="741" frameX="-112" frameY="-107" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0011" x="4332" y="1236" width="643" height="741" frameX="-112" frameY="-107" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0012" x="4980" y="1239" width="686" height="741" frameX="-112" frameY="-107" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0013" x="4980" y="1239" width="686" height="741" frameX="-112" frameY="-107" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0014" x="5956" y="589" width="722" height="660" frameX="-112" frameY="-188" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0015" x="5956" y="589" width="722" height="660" frameX="-112" frameY="-188" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0016" x="2691" y="573" width="764" height="637" frameX="-64" frameY="-188" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0017" x="2691" y="573" width="764" height="637" frameX="-64" frameY="-188" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0018" x="6509" y="1" width="596" height="583" frameX="-210" frameY="-251" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0019" x="6509" y="1" width="596" height="583" frameX="-210" frameY="-251" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0020" x="1" y="1" width="618" height="530" frameX="-164" frameY="-288" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0021" x="1" y="1" width="618" height="530" frameX="-164" frameY="-288" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0022" x="1678" y="1" width="620" height="566" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0023" x="1678" y="1" width="620" height="566" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0024" x="5189" y="1" width="608" height="570" frameX="-179" frameY="-249" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0025" x="5189" y="1" width="608" height="570" frameX="-179" frameY="-249" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0026" x="2928" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0027" x="2928" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0028" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0029" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0030" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0031" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0032" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0033" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0034" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0035" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0036" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0037" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0038" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0039" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0040" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0041" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0042" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0043" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0044" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0045" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0046" x="4257" y="575" width="870" height="656" frameX="-179" frameY="-163" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0047" x="4257" y="575" width="870" height="656" frameX="-179" frameY="-163" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0048" x="6683" y="624" width="897" height="671" frameX="-179" frameY="-148" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0049" x="6683" y="624" width="897" height="671" frameX="-179" frameY="-148" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0050" x="3475" y="1982" width="1102" height="793" frameX="-33" frameY="-73" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0051" x="5671" y="1254" width="783" height="745" frameX="-33" frameY="-81" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0052" x="1427" y="1941" width="617" height="769" frameX="-146" frameY="-75" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0053" x="1" y="1876" width="634" height="760" frameX="-146" frameY="-84" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0054" x="2997" y="1222" width="665" height="740" frameX="-146" frameY="-104" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0055" x="3667" y="1236" width="660" height="740" frameX="-146" frameY="-104" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0056" x="1658" y="1214" width="643" height="722" frameX="-146" frameY="-122" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0057" x="1658" y="1214" width="643" height="722" frameX="-146" frameY="-122" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0058" x="2306" y="1215" width="686" height="722" frameX="-146" frameY="-122" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0059" x="2306" y="1215" width="686" height="722" frameX="-146" frameY="-122" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0060" x="920" y="564" width="722" height="641" frameX="-146" frameY="-203" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0061" x="7110" y="1" width="764" height="618" frameX="-104" frameY="-203" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0062" x="5802" y="1" width="702" height="570" frameX="-104" frameY="-251" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0063" x="6509" y="1" width="596" height="583" frameX="-210" frameY="-251" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0064" x="624" y="1" width="618" height="546" frameX="-164" frameY="-288" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0065" x="1" y="1" width="618" height="530" frameX="-164" frameY="-288" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0066" x="2303" y="1" width="620" height="566" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0067" x="1678" y="1" width="620" height="566" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0068" x="4576" y="1" width="608" height="569" frameX="-179" frameY="-249" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0069" x="5189" y="1" width="608" height="570" frameX="-179" frameY="-249" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0070" x="2928" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0071" x="2928" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0072" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0073" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0074" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0075" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0076" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0077" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0078" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0079" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0080" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0081" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0082" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0083" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0084" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0085" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0086" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0087" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0088" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+	<SubTexture name="SONIC RETRY DECONFIRM LOOP0089" x="3542" y="1" width="609" height="567" frameX="-179" frameY="-252" frameWidth="1135" frameHeight="866"/>
+</TextureAtlas>

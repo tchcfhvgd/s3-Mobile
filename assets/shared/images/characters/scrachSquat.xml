@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TextureAtlas imagePath="scrachSquat.png" width="6960" height="4464">
+	<SubTexture name="SCRATCH SQUAT DOWN0000" x="3864" y="1476" width="1558" height="1477" frameX="-35" frameY="-48" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0001" x="3864" y="1476" width="1558" height="1477" frameX="-35" frameY="-48" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0002" x="3037" y="2958" width="1522" height="1505" frameX="-52" frameY="-20" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0003" x="3037" y="2958" width="1522" height="1505" frameX="-52" frameY="-20" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0004" x="3037" y="2958" width="1522" height="1505" frameX="-52" frameY="-20" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0005" x="3037" y="2958" width="1522" height="1505" frameX="-52" frameY="-20" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0006" x="3037" y="2958" width="1522" height="1505" frameX="-52" frameY="-20" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0007" x="3037" y="2958" width="1522" height="1505" frameX="-52" frameY="-20" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0008" x="3037" y="2958" width="1522" height="1505" frameX="-52" frameY="-20" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0009" x="3037" y="2958" width="1522" height="1505" frameX="-52" frameY="-20" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0010" x="3037" y="2958" width="1522" height="1505" frameX="-52" frameY="-20" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0011" x="3037" y="2958" width="1522" height="1505" frameX="-52" frameY="-20" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0012" x="3037" y="2958" width="1522" height="1505" frameX="-52" frameY="-20" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT DOWN0013" x="3037" y="2958" width="1522" height="1505" frameX="-52" frameY="-20" frameWidth="1594" frameHeight="1525"/>
+	<SubTexture name="SCRATCH SQUAT IDLE0000" x="1" y="2935" width="1522" height="1494" frameX="-34" frameY="-0" frameWidth="1556" frameHeight="1494"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0000" x="1504" y="1" width="1505" height="1454" frameX="-76" frameY="-101" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0001" x="1504" y="1" width="1505" height="1454" frameX="-76" frameY="-101" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0002" x="2347" y="1474" width="1512" height="1476" frameX="-77" frameY="-79" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0003" x="2347" y="1474" width="1512" height="1476" frameX="-77" frameY="-79" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0004" x="2347" y="1474" width="1512" height="1476" frameX="-77" frameY="-79" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0005" x="2347" y="1474" width="1512" height="1476" frameX="-77" frameY="-79" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0006" x="2347" y="1474" width="1512" height="1476" frameX="-77" frameY="-79" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0007" x="2347" y="1474" width="1512" height="1476" frameX="-77" frameY="-79" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0008" x="2347" y="1474" width="1512" height="1476" frameX="-77" frameY="-79" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0009" x="2347" y="1474" width="1512" height="1476" frameX="-77" frameY="-79" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0010" x="2347" y="1474" width="1512" height="1476" frameX="-77" frameY="-79" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0011" x="2347" y="1474" width="1512" height="1476" frameX="-77" frameY="-79" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0012" x="2347" y="1474" width="1512" height="1476" frameX="-77" frameY="-79" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT LEFT0013" x="2347" y="1474" width="1512" height="1476" frameX="-77" frameY="-79" frameWidth="1604" frameHeight="1555"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0000" x="3014" y="1" width="1508" height="1468" frameX="-42" frameY="-50" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0001" x="3014" y="1" width="1508" height="1468" frameX="-42" frameY="-50" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0002" x="1" y="1" width="1498" height="1439" frameX="-41" frameY="-79" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0003" x="1" y="1" width="1498" height="1439" frameX="-41" frameY="-79" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0004" x="1" y="1" width="1498" height="1439" frameX="-41" frameY="-79" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0005" x="1" y="1" width="1498" height="1439" frameX="-41" frameY="-79" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0006" x="1" y="1" width="1498" height="1439" frameX="-41" frameY="-79" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0007" x="1" y="1" width="1498" height="1439" frameX="-41" frameY="-79" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0008" x="1" y="1" width="1498" height="1439" frameX="-41" frameY="-79" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0009" x="1" y="1" width="1498" height="1439" frameX="-41" frameY="-79" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0010" x="1" y="1" width="1498" height="1439" frameX="-41" frameY="-79" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0011" x="1" y="1" width="1498" height="1439" frameX="-41" frameY="-79" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0012" x="1" y="1" width="1498" height="1439" frameX="-41" frameY="-79" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT RIGHT0013" x="1" y="1" width="1498" height="1439" frameX="-41" frameY="-79" frameWidth="1595" frameHeight="1518"/>
+	<SubTexture name="SCRATCH SQUAT UP0000" x="5427" y="1476" width="1532" height="1479" rotated="true" frameX="-44" frameY="-0" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0001" x="5427" y="1476" width="1532" height="1479" rotated="true" frameX="-44" frameY="-0" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0002" x="1528" y="2955" width="1504" height="1500" rotated="true" frameX="-34" frameY="-27" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0003" x="1528" y="2955" width="1504" height="1500" rotated="true" frameX="-34" frameY="-27" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0004" x="1528" y="2955" width="1504" height="1500" rotated="true" frameX="-34" frameY="-27" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0005" x="1528" y="2955" width="1504" height="1500" rotated="true" frameX="-34" frameY="-27" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0006" x="1528" y="2955" width="1504" height="1500" rotated="true" frameX="-34" frameY="-27" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0007" x="1528" y="2955" width="1504" height="1500" rotated="true" frameX="-34" frameY="-27" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0008" x="1528" y="2955" width="1504" height="1500" rotated="true" frameX="-34" frameY="-27" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0009" x="1528" y="2955" width="1504" height="1500" rotated="true" frameX="-34" frameY="-27" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0010" x="1528" y="2955" width="1504" height="1500" rotated="true" frameX="-34" frameY="-27" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0011" x="1528" y="2955" width="1504" height="1500" rotated="true" frameX="-34" frameY="-27" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0012" x="1528" y="2955" width="1504" height="1500" rotated="true" frameX="-34" frameY="-27" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SCRATCH SQUAT UP0013" x="1528" y="2955" width="1504" height="1500" rotated="true" frameX="-34" frameY="-27" frameWidth="1535" frameHeight="1532"/>
+	<SubTexture name="SUPRISE0000" x="4527" y="1" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0001" x="4527" y="1" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0002" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0003" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0004" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0005" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0006" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0007" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0008" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0009" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0010" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0011" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0012" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0013" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0014" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0015" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0016" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0017" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0018" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0019" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0020" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0021" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0022" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0023" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0024" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0025" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0026" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0027" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0028" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0029" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0030" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0031" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0032" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0033" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0034" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0035" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0036" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0037" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0038" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0039" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0040" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0041" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0042" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0043" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0044" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0045" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0046" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0047" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0048" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0049" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0050" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0051" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0052" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0053" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0054" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0055" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0056" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0057" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0058" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0059" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0060" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0061" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0062" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0063" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0064" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0065" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0066" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0067" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0068" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0069" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0070" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0071" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0072" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0073" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0074" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0075" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0076" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0077" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0078" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0079" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0080" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0081" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0082" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0083" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0084" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0085" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0086" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0087" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0088" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0089" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0090" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0091" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0092" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0093" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0094" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0095" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0096" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0097" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0098" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0099" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0100" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0101" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0102" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0103" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0104" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0105" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0106" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0107" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0108" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0109" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0110" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0111" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0112" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0113" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0114" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0115" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0116" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0117" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0118" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0119" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0120" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0121" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0122" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0123" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0124" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0125" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0126" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0127" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0128" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0129" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+	<SubTexture name="SUPRISE0130" x="1" y="1460" width="2341" height="1470" frameX="-0" frameY="-0" frameWidth="2341" frameHeight="1470"/>
+</TextureAtlas>

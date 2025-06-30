@@ -1,0 +1,111 @@
+{
+	"song": {
+		"events": [
+			[
+				25933.0985915493,
+				[
+					[
+						"Play Animation",
+						"more",
+						"Dad"
+					]
+				]
+			],
+			[
+				39348.5915492958,
+				[
+					[
+						"Play Animation",
+						"buddy",
+						"Dad"
+					]
+				]
+			],
+			[
+				47112.676056338,
+				[
+					[
+						"Play Animation",
+						"okay",
+						"BF"
+					]
+				]
+			],
+			[
+				58908.4507042254,
+				[
+					[
+						"Play Animation",
+						"bad",
+						"Dad"
+					]
+				]
+			],
+			[
+				70035.2112676057,
+				[
+					[
+						"Play Animation",
+						"alright",
+						"BF"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"",
+						"hit",
+						""
+					]
+				]
+			],
+			[
+				76216.2162162162,
+				[
+					[
+						"Alt Idle Animation",
+						"BF",
+						"-froggy"
+					]
+				]
+			],
+			[
+				78243.2432432433,
+				[
+					[
+						"",
+						"froggyAlt",
+						""
+					]
+				]
+			],
+			[
+				102567.567567568,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-froggy",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				103378.378378379,
+				[
+					[
+						"Play Animation",
+						"catchFroggy",
+						"BF"
+					]
+				]
+			]
+		]
+	}
+}

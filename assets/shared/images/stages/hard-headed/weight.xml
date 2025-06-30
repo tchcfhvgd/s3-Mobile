@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="weight.png" width="2406" height="1879">
+	<SubTexture name="WEIGHT CRUSH0000" x="1784" y="734" width="621" height="815" rotated="true" frameX="-129" frameY="-0" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0001" x="1" y="1" width="815" height="783" frameX="-129" frameY="-417" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0002" x="1" y="789" width="693" height="1089" rotated="true" frameX="-0" frameY="-813" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0003" x="821" y="1" width="693" height="1096" rotated="true" frameX="-4" frameY="-813" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0004" x="699" y="1102" width="1080" height="728" frameX="-13" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0005" x="1519" y="1" width="875" height="728" frameX="-99" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0006" x="1519" y="1" width="875" height="728" frameX="-99" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0007" x="1519" y="1" width="875" height="728" frameX="-99" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0008" x="1519" y="1" width="875" height="728" frameX="-99" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0009" x="1519" y="1" width="875" height="728" frameX="-99" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0010" x="1519" y="1" width="875" height="728" frameX="-99" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0011" x="1519" y="1" width="875" height="728" frameX="-99" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0012" x="1519" y="1" width="875" height="728" frameX="-99" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0013" x="1519" y="1" width="875" height="728" frameX="-99" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0014" x="1519" y="1" width="875" height="728" frameX="-99" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0015" x="1519" y="1" width="875" height="728" frameX="-99" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+	<SubTexture name="WEIGHT CRUSH0016" x="1519" y="1" width="875" height="728" frameX="-99" frameY="-778" frameWidth="1100" frameHeight="1506"/>
+</TextureAtlas>
