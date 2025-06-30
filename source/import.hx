@@ -15,6 +15,7 @@ import flixel.tweens.FlxTween;
 import flixel.group.FlxSpriteGroup;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.group.FlxSpriteGroup.FlxTypedSpriteGroup;
+import psych.shaders.flixel.system.FlxShader;
 
 //Mobile Controls
 import mobile.objects.MobileControls;
