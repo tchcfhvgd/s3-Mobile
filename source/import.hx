@@ -1,5 +1,6 @@
 #if !macro
 import flixel.FlxG;
+import flixel.group.FlxGroup.FlxTypedGroup;
 
 //Mobile Controls
 import mobile.objects.MobileControls;
