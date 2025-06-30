@@ -14,6 +14,7 @@ import openfl.display.Sprite;
 import openfl.events.Event;
 import openfl.display.StageScaleMode;
 
+import lime.system.System as LimeSystem;
 import lime.app.Application;
 
 import psych.states.TitleState;

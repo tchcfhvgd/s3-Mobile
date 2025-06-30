@@ -31,6 +31,7 @@ import mobile.backend.StorageUtil;
 import psych.backend.CoolUtil;
 import psych.backend.Mods;
 import psych.backend.Paths;
+import psych.backend.ClientPrefs;
 
 #if sys
 import sys.*;
