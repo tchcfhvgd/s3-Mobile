@@ -17,8 +17,6 @@ import flixel.tweens.FlxTween;
 
 import openfl.filters.ShaderFilter;
 
-import psych.shaders.NTSCShader;
-
 var subtitle:FlxText;
 var weight:FlxSprite;
 var boltAnim:FlxSprite;
@@ -32,13 +30,6 @@ function onCreate()
 	spr.updateHitbox();
 	spr.antialiasing = ClientPrefs.data.antialiasing;
 	addBehindGF(spr);
-	
-	if (ClientPrefs.data.shaders)
-	{
-		var filter = new ShaderFilter(new NTSCShader());
-		FlxG.camera.filters = [filter];
-		camHUD.filters = [filter];
-	}
 	
 	weight = new ModchartSprite(-800, -2400).loadFromSheet('stages/hard-headed/weight', 'WEIGHT CRUSH', 24, false);
 	add(weight);
