@@ -26,6 +26,8 @@ class Init extends FlxState
 		
 		psych.backend.Highscore.load();
 		
+		MobileData.init();
+		
 		if (FlxG.save.data.weekCompleted != null)
 		{
 			psych.states.StoryMenuState.weekCompleted = FlxG.save.data.weekCompleted;

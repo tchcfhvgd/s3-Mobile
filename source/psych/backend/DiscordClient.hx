@@ -1,5 +1,6 @@
 package psych.backend;
 
+#if DISCORD_ALLOWED
 import Sys.sleep;
 
 import lime.app.Application;
@@ -148,3 +149,4 @@ class DiscordClient
 	}
 	#end
 }
+#end

@@ -53,6 +53,7 @@ import psych.flxanimate.PsychFlxAnimate as FlxAnimate;
 import flixel.sound.FlxSound;
 import flixel.FlxG;
 import flixel.FlxSprite;
+import flixel.util.FlxDestroyUtil;
 import flixel.FlxCamera;
 import flixel.math.FlxMath;
 import flixel.math.FlxPoint;
