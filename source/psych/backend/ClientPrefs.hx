@@ -10,7 +10,7 @@ import psych.states.TitleState;
 @:structInit class SaveVariables
 {
 	// Mobile and Mobile Controls Releated
-	public var extraButtons:String = "NONE"; // mobile extra button option
+	public var extraButtons:String = "SINGLE"; // mobile extra button option
 	public var hitboxPos:Bool = true; // hitbox extra button position option
 	public var dynamicColors:Bool = true; // yes cause its cool -Karim
 	public var controlsAlpha:Float = FlxG.onMobile ? 0.6 : 0;
@@ -152,7 +152,8 @@ class ClientPrefs
 		'accept'		=> [A],
 		'back'			=> [B],
 		'pause'			=> [#if android NONE #else P #end],
-		'reset'			=> [NONE]
+		'reset'			=> [NONE],
+		'note_extra'     => [EXTRA_1]
 	];
 	public static var defaultMobileBinds:Map<String, Array<MobileInputID>> = null;
 	public static var defaultKeys:Map<String, Array<FlxKey>> = null;

@@ -113,7 +113,7 @@ class CopyState extends MusicBeatState
 				canUpdate = false;
 				FlxG.sound.play(Paths.sound('confirmMenu')).onComplete = () ->
 				{
-					CoolUtil.showPopUp("Restart the game");
+					CoolUtil.showPopUp("Restart the game", "Notice!");
 					lime.system.System.exit(1);
 				};
 			}

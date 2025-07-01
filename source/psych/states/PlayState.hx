@@ -270,6 +270,7 @@ class PlayState extends MusicBeatState
 	
 	public static var changedDifficulty:Bool = false;
 	public static var chartingMode:Bool = false;
+	public static var qqqeb:Bool = false;
 	
 	// Gameplay settings
 	public var healthGain:Float = 1;
@@ -689,6 +690,12 @@ class PlayState extends MusicBeatState
 			#end
 		}
 		#end
+		
+		switch(Paths.formatToSongPath(SONG.song))
+		{
+		case 'scrambled':
+		qqqeb = true;
+		}
 		
 		addMobileControls();
 		mobileControls.instance.visible = false;
@@ -3522,6 +3529,7 @@ class PlayState extends MusicBeatState
 		Note.globalRgbShaders = [];
 		psych.backend.NoteTypesConfig.clearNoteTypesData();
 		super.destroy();
+		qqqeb = false;
 		instance = null;
 	}
 	
