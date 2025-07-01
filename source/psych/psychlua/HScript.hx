@@ -399,7 +399,6 @@ class HScript extends Iris
   
 		set("addTouchPadCamera", () -> {
 			if(PlayState.instance.luaTouchPad == null){
-				FunkinLua.luaTrace('addTouchPadCamera: TPAD does not exist.');
 				return;
 			}
 			PlayState.instance.addLuaTouchPadCamera();
