@@ -303,6 +303,8 @@ class S3Credits extends MusicBeatState
 		arrow.visible = credits.length > 9;
 		
 		changeSel();
+		
+		addTouchPad("LEFT_FULL", "A_B");
 	}
 	
 	function spawnText(txt:String)

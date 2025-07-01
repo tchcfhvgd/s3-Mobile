@@ -180,6 +180,9 @@ class PauseSubState extends MusicBeatSubstate
 		
 		cameras = [FlxG.cameras.list[FlxG.cameras.list.length - 1]];
 		
+		addTouchPad(PlayState.chartingMode ? "LEFT_FULL" : "UP_DOWN", "A");
+		addTouchPadCamera();
+		
 		super.create();
 	}
 	
@@ -362,6 +365,25 @@ class PauseSubState extends MusicBeatSubstate
 					PlayState.chartingMode = false;
 					FlxG.camera.followLerp = 0;
 			}
+		}
+		
+		if (touchPad == null) //sometimes it dosent add the tpad, hopefully this fixes it
+		{
+			if (PlayState.chartingMode)
+			{
+				addTouchPad("LEFT_FULL", "A");
+				touchPad.buttonLeft.color = 0xFFC24B99;
+				touchPad.buttonDown.color = 0xFF00FFFF;
+				touchPad.buttonUp.color = 0xFF12FA05;
+				touchPad.buttonRight.color = 0xFFF9393F; 
+			}
+			else
+			{
+				addTouchPad("UP_DOWN", "A");
+				touchPad.buttonDown.color = 0xFF00FFFF;
+				touchPad.buttonUp.color = 0xFF12FA05;
+			}
+			addTouchPadCamera();
 		}
 	}
 	

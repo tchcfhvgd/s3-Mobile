@@ -161,6 +161,11 @@ class NotesSubState extends MusicBeatSubstate
 		FlxG.mouse.visible = !controls.controllerMode;
 		controllerPointer.visible = controls.controllerMode;
 		_lastControllerMode = controls.controllerMode;
+		
+		addTouchPad("NONE", "B_C");
+ 		touchPad.buttonB.x = FlxG.width - 132;
+		touchPad.buttonC.x = 0;
+		touchPad.buttonC.y = FlxG.height - 135;
 	}
 	
 	function updateTip()
@@ -482,7 +487,7 @@ class NotesSubState extends MusicBeatSubstate
 				}
 			}
 		}
-		else if (controls.RESET && hexTypeNum < 0)
+		else if ((controls.RESET || touchPad.buttonC.justPressed) && hexTypeNum < 0)
 		{
 			if (FlxG.keys.pressed.SHIFT || FlxG.gamepads.anyJustPressed(LEFT_SHOULDER))
 			{

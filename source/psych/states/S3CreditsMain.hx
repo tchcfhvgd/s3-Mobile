@@ -70,6 +70,8 @@ class S3CreditsMain extends MusicBeatState
 		initiated = true;
 		
 		changeSel();
+		
+		addTouchPad("UP_DOWN", "A_B");
 	}
 	
 	override function startOutro(onOutroComplete:() -> Void)

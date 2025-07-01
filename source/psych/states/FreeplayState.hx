@@ -201,6 +201,9 @@ class FreeplayState extends MusicBeatState
 		
 		changeSelection();
 		updateTexts();
+		
+		addTouchPad("LEFT_FULL", "A_B_C_X_Y_Z");
+		
 		super.create();
 	}
 	
@@ -209,6 +212,8 @@ class FreeplayState extends MusicBeatState
 		changeSelection(0, false);
 		persistentUpdate = true;
 		super.closeSubState();
+		removeTouchPad();
+		addTouchPad("LEFT_FULL", "A_B_C_X_Y_Z");
 	}
 	
 	function weekIsLocked(name:String):Bool
@@ -233,7 +238,7 @@ class FreeplayState extends MusicBeatState
 		}
 		
 		var shiftMult:Int = 1;
-		if (FlxG.keys.pressed.SHIFT) shiftMult = 3;
+		if (FlxG.keys.pressed.SHIFT || touchPad.buttonZ.pressed) shiftMult = 3;
 		
 		if (!player.playingMusic)
 		{
@@ -314,12 +319,13 @@ class FreeplayState extends MusicBeatState
 			}
 		}
 		
-		if (FlxG.keys.justPressed.CONTROL && !player.playingMusic)
+		if ((FlxG.keys.justPressed.CONTROL || touchPad.buttonC.justPressed) && !player.playingMusic)
 		{
 			persistentUpdate = false;
 			openSubState(new GameplayChangersSubstate());
+			removeTouchPad();
 		}
-		else if (FlxG.keys.justPressed.SPACE)
+		else if (FlxG.keys.justPressed.SPACE || touchPad.buttonX.justPressed)
 		{
 			if (instPlaying != curSelected && !player.playingMusic)
 			{
@@ -397,10 +403,11 @@ class FreeplayState extends MusicBeatState
 			DiscordClient.loadModRPC();
 			#end
 		}
-		else if (controls.RESET && !player.playingMusic)
+		else if (controls.RESET || touchPad.buttonY.justPressed && !player.playingMusic)
 		{
 			persistentUpdate = false;
 			openSubState(new ResetScoreSubState(songGrp.members[curSelected].songName, curDifficulty, songGrp.members[curSelected].icon.getCharacter()));
+			removeTouchPad();
 			FlxG.sound.play(Paths.sound('scrollMenu'));
 		}
 		

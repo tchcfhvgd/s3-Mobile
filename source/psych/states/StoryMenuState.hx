@@ -225,6 +225,8 @@ class StoryMenuState extends MusicBeatState
 		changeDifficulty();
 		
 		super.create();
+		
+		addTouchPad("LEFT_FULL", "A_B_X_Y");
 	}
 	
 	override function closeSubState()
@@ -232,6 +234,8 @@ class StoryMenuState extends MusicBeatState
 		persistentUpdate = true;
 		changeWeek();
 		super.closeSubState();
+		removeTouchPad();
+		addTouchPad("LEFT_FULL", "A_B_X_Y");
 	}
 	
 	final topBound:Float = 440;
@@ -311,15 +315,17 @@ class StoryMenuState extends MusicBeatState
 			else if (controls.UI_LEFT_P) changeDifficulty(-1);
 			else if (upP || downP) changeDifficulty();
 			
-			if (FlxG.keys.justPressed.CONTROL)
+			if (FlxG.keys.justPressed.CONTROL || touchPad.buttonX.justPressed)
 			{
 				persistentUpdate = false;
 				openSubState(new GameplayChangersSubstate());
+				removeTouchPad();
 			}
-			else if (controls.RESET)
+			else if (controls.RESET || touchPad.buttonY.justPressed)
 			{
 				persistentUpdate = false;
 				openSubState(new ResetScoreSubState('', curDifficulty, '', curWeek));
+				removeTouchPad();
 				// FlxG.sound.play(Paths.sound('scrollMenu'));
 			}
 			else if (controls.ACCEPT)

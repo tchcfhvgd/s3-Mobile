@@ -121,10 +121,19 @@ class AchievementsMenuState extends MusicBeatState
 		add(nameText);
 		
 		_changeSelection();
+		
+		addTouchPad("LEFT_FULL", "B_C");
+		
 		super.create();
 		
 		FlxG.camera.follow(camFollow, null, 0.12);
 		FlxG.camera.scroll.y = -FlxG.height;
+	}
+	
+	override function closeSubState() {
+		super.closeSubState();
+		removeTouchPad();
+		addTouchPad("LEFT_FULL", "B_C");
 	}
 	
 	function makeAchievement(achievement:String, data:Achievement, unlocked:Bool, mod:String = null)
@@ -199,9 +208,10 @@ class AchievementsMenuState extends MusicBeatState
 				}
 			}
 			
-			if (controls.RESET && (options[curSelected].unlocked || options[curSelected].curProgress > 0))
+			if ((controls.RESET || MusicBeatState.getState().touchPad.buttonC.justPressed) && (options[curSelected].unlocked || options[curSelected].curProgress > 0))
 			{
 				openSubState(new ResetAchievementSubstate());
+				removeTouchPad();
 			}
 		}
 		

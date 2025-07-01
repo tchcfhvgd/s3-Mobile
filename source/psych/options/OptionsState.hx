@@ -26,6 +26,7 @@ class OptionsState extends MusicBeatState
 	
 	function openSelectedSubstate(label:String)
 	{
+		if (label != "Adjust Delay and Combo") removeTouchPad();
 		switch (label)
 		{
 			case 'Note Colors':
@@ -99,6 +100,8 @@ class OptionsState extends MusicBeatState
 		ClientPrefs.saveSettings();
 		
 		super.create();
+		
+		addTouchPad("UP_DOWN", "A_B_X_Y");
 	}
 	
 	override function closeSubState()
@@ -115,6 +118,10 @@ class OptionsState extends MusicBeatState
 		FlxTimer.wait(0, () -> {
 			canInteract = true;
 		});
+		
+		controls.isInSubstate = false;
+        removeTouchPad();
+		addTouchPad("UP_DOWN", "A_B_X_Y");
 	}
 	
 	override function openSubState(SubState:FlxSubState)
@@ -151,6 +158,21 @@ class OptionsState extends MusicBeatState
 				else FlxG.switchState(() -> new MainMenuState());
 			}
 			else if (controls.ACCEPT) openSelectedSubstate(options[curSelected]);
+		
+		if (touchPad != null && touchPad.buttonX.justPressed)
+		{
+			persistentUpdate = false;
+			removeTouchPad();
+			openSubState(new MobileControlSelectSubState());
+		}
+		
+		if (touchPad != null && touchPad.buttonY.justPressed)
+		{
+			persistentUpdate = false;
+			removeTouchPad();
+			openSubState(new mobile.options.MobileOptionsSubState());
+		}
+		
 		}
 	}
 	

@@ -78,6 +78,9 @@ class ResetScoreSubState extends MusicBeatSubstate
 		noText.x += 200;
 		add(noText);
 		updateOptions();
+		
+		addTouchPad("LEFT_RIGHT", "A_B");
+		addTouchPadCamera();
 	}
 	
 	override function update(elapsed:Float)
@@ -118,6 +121,10 @@ class ResetScoreSubState extends MusicBeatSubstate
 			}
 			FlxG.sound.play(Paths.sound('cancelMenu'), 1);
 			close();
+		}
+		if (touchPad == null){ //sometimes it dosent add the tpad, hopefully this fixes it
+		addTouchPad("LEFT_RIGHT", "A_B");
+		addTouchPadCamera();
 		}
 		super.update(elapsed);
 	}

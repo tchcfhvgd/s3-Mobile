@@ -181,6 +181,8 @@ class ModsMenuState extends MusicBeatState
 			
 			FlxG.autoPause = false;
 			changeSelectedMod();
+			
+			addTouchPad("NONE", "B");
 			return super.create();
 		}
 		//
@@ -301,6 +303,12 @@ class ModsMenuState extends MusicBeatState
 		_lastControllerMode = controls.controllerMode;
 		
 		changeSelectedMod();
+		
+		addTouchPad("UP_DOWN", "B");
+		touchPad.y -= 215; // so that you can press the buttons.
+		if (controls.mobileC)
+			touchPad.alpha = 0.3;
+		
 		super.create();
 	}
 	
