@@ -27,6 +27,7 @@ import psych.psychlua.CustomSubstate;
 import psych.states.FreeplayState;
 import psych.states.PlayState;
 import psych.states.StoryMenuState;
+import mobile.backend.TouchUtil;
 
 function onGameOver()
 {
@@ -159,9 +160,6 @@ function openRetryScreen()
 	countdownTxt.alignment = 'center';
 	add(countdownTxt);
 	countdownTxt.cameras = [camOther];
-	
-	addTouchPad("NONE", "A_B");
-	addTouchPadCamera();
 }
 
 function onCustomSubstateUpdatePost(name, e)
@@ -200,7 +198,7 @@ function onCustomSubstateUpdatePost(name, e)
 				if (fakeCurStep % 4 == 0) fakeBeatHit();
 			}
 			
-			if (controls.BACK)
+			if (controls.BACK || FlxG.android.justReleased.BACK)
 			{
 				returnToMenu();
 			}
@@ -223,12 +221,12 @@ function onCustomSubstateUpdatePost(name, e)
 				return;
 			}
 			
-			if (controls.ACCEPT)
+			if (controls.ACCEPT || TouchUtil.justPressed)
 			{
 				confirmRetry();
 			}
 			
-			if (controls.BACK)
+			if (controls.BACK || FlxG.android.justReleased.BACK)
 			{
 				cancelRetry();
 			}
