@@ -116,7 +116,7 @@ class ControlsSubState extends MusicBeatSubstate
 		
 		createTexts();
 		
-		addTouchPad("LEFT_FULL", "A_B_C");
+		addTouchPad("NONE", "A_B");
 	}
 	
 	var lastID:Int = 0;
@@ -285,7 +285,7 @@ class ControlsSubState extends MusicBeatSubstate
 		
 		if (!binding)
 		{
-			if (FlxG.keys.justPressed.ESCAPE || FlxG.gamepads.anyJustPressed(B))
+			if (controls.BACK || FlxG.gamepads.anyJustPressed(B))
 			{
 				close();
 				return;
@@ -349,7 +349,7 @@ class ControlsSubState extends MusicBeatSubstate
 		{
 			var altNum:Int = curAlt ? 1 : 0;
 			var curOption:Array<Dynamic> = options[curOptions[curSelected]];
-			if (touchPad.buttonB.pressed || FlxG.keys.pressed.ESCAPE || FlxG.gamepads.anyPressed(B))
+			if (FlxG.keys.pressed.ESCAPE || FlxG.gamepads.anyPressed(B))
 			{
 				holdingEsc += elapsed;
 				if (holdingEsc > 0.5)
@@ -358,7 +358,7 @@ class ControlsSubState extends MusicBeatSubstate
 					closeBinding();
 				}
 			}
-			else if (touchPad.buttonC.pressed || FlxG.keys.pressed.BACKSPACE || FlxG.gamepads.anyPressed(BACK))
+			else if (FlxG.keys.pressed.BACKSPACE || FlxG.gamepads.anyPressed(BACK))
 			{
 				holdingEsc += elapsed;
 				if (holdingEsc > 0.5)

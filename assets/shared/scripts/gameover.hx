@@ -159,6 +159,9 @@ function openRetryScreen()
 	countdownTxt.alignment = 'center';
 	add(countdownTxt);
 	countdownTxt.cameras = [camOther];
+	
+	addTouchPad("NONE", "A_B");
+	addTouchPadCamera();
 }
 
 function onCustomSubstateUpdatePost(name, e)

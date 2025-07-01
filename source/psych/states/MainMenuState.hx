@@ -144,6 +144,8 @@ class MainMenuState extends MusicBeatState
 	
 	override function update(elapsed:Float)
 	{
+		super.update(elapsed);
+		
 		if (FlxG.sound.music.volume < 0.8)
 		{
 			FlxG.sound.music.volume += 0.5 * elapsed;
@@ -197,12 +199,6 @@ class MainMenuState extends MusicBeatState
 					FlxTween.tween(i, {y: i.y + 70, alpha: 0}, 0.2, {startDelay: 0.1, ease: FlxEase.sineIn});
 				}
 				
-				if (optionShit[curSelected] == 'freeplay' && !ClientPrefs.data.canAccessFreeplay)
-				selectedSomethin = false;
-				else
-				if (optionShit[curSelected] == 'credits' && !ClientPrefs.data.canAccessCredits)
-				selectedSomethin = false;
-				else
 				selectedSomethin = true;
 				
 				
@@ -268,8 +264,6 @@ class MainMenuState extends MusicBeatState
 				item.alpha = FlxMath.lerp(item.alpha, desiredAlpha, lerpRate);
 			}
 		}
-		
-		super.update(elapsed);
 	}
 	
 	function changeItem(huh:Int = 0)

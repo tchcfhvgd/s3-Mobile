@@ -387,6 +387,49 @@ class HScript extends Iris
 		set('Function_StopHScript', LuaUtils.Function_StopHScript);
 		set('Function_StopAll', LuaUtils.Function_StopAll);
 		
+		#if (LUA_ALLOWED || HSCRIPT_ALLOWED)
+		set("addTouchPad", (DPadMode:String, ActionMode:String) -> {
+			PlayState.instance.makeLuaTouchPad(DPadMode, ActionMode);
+			PlayState.instance.addLuaTouchPad();
+		  });
+  
+		set("removeTouchPad", () -> {
+			PlayState.instance.removeLuaTouchPad();
+		});
+  
+		set("addTouchPadCamera", () -> {
+			if(PlayState.instance.luaTouchPad == null){
+				FunkinLua.luaTrace('addTouchPadCamera: TPAD does not exist.');
+				return;
+			}
+			PlayState.instance.addLuaTouchPadCamera();
+		});
+  
+		set("touchPadJustPressed", function(button:Dynamic):Bool {
+			if(PlayState.instance.luaTouchPad == null){
+			  //FunkinLua.luaTrace('touchPadJustPressed: TPAD does not exist.');
+			  return false;
+			}
+		  return PlayState.instance.luaTouchPadJustPressed(button);
+		});
+  
+		set("touchPadPressed", function(button:Dynamic):Bool {
+			if(PlayState.instance.luaTouchPad == null){
+				//FunkinLua.luaTrace('touchPadPressed: TPAD does not exist.');
+				return false;
+			}
+			return PlayState.instance.luaTouchPadPressed(button);
+		});
+  
+		set("touchPadJustReleased", function(button:Dynamic):Bool {
+			if(PlayState.instance.luaTouchPad == null){
+				//FunkinLua.luaTrace('touchPadJustReleased: TPAD does not exist.');
+				return false;
+			}
+			return PlayState.instance.luaTouchPadJustReleased(button);
+		});
+                #end
+		
 		// overriden for hl fixes
 		#if hscriptPos
 		set("trace", Reflect.makeVarArgs(function(x:Array<Dynamic>) {
