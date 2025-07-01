@@ -29,7 +29,7 @@ import flixel.util.FlxGradient;
 import mobile.backend.TouchUtil;
 import flixel.input.touch.FlxTouch;
 import flixel.ui.FlxButton as UIButton;
-import backend.MusicBeatSubstate;
+import psych.backend.MusicBeatSubstate;
 
 class MobileControlSelectSubState extends MusicBeatSubstate
 {
