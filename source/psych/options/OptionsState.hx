@@ -51,7 +51,7 @@ class OptionsState extends MusicBeatState
 		#if DISCORD_ALLOWED
 		DiscordClient.changePresence("Options Menu", null);
 		#end
-		FlxG.sound.play(S3Meta.getActorLine('options'));
+		FlxG.sound.play(S3Meta.getActorLine('Options'));
 		
 		persistentUpdate = true;
 		

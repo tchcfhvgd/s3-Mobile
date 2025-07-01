@@ -197,7 +197,14 @@ class MainMenuState extends MusicBeatState
 					FlxTween.tween(i, {y: i.y + 70, alpha: 0}, 0.2, {startDelay: 0.1, ease: FlxEase.sineIn});
 				}
 				
+				if (optionShit[curSelected] == 'freeplay' && !ClientPrefs.data.canAccessFreeplay)
+				selectedSomethin = false;
+				else
+				if (optionShit[curSelected] == 'credits' && !ClientPrefs.data.canAccessCredits)
+				selectedSomethin = false;
+				else
 				selectedSomethin = true;
+				
 				
 				FlxTimer.wait(1, () -> {
 					switch (optionShit[curSelected])
