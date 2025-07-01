@@ -18,7 +18,6 @@ import lime.system.System as LimeSystem;
 import lime.app.Application;
 
 import psych.states.TitleState;
-import mobile.backend.MobileScaleMode;
 
 #if linux
 import lime.graphics.Image;
@@ -114,7 +113,7 @@ class Main extends Sprite
 
 		#if mobile
 		LimeSystem.allowScreenTimeout = ClientPrefs.data.screensaver;
-		FlxG.scaleMode = new MobileScaleMode();
+		//FlxG.scaleMode = new MobileScaleMode();
 		#end
 		
 		#if DISCORD_ALLOWED
